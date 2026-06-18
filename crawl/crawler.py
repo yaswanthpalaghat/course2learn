@@ -153,7 +153,7 @@ Return ONLY a valid JSON array. No markdown, no explanation, no code blocks. Sta
     try:
         from google.genai import types
         response = client.models.generate_content(
-            model="gemini-3.5-flash",
+            model="gemini-2.5-flash",
             contents=prompt,
             config=types.GenerateContentConfig(
                 tools=[search_tool],
