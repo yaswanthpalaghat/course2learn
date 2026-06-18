@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Course2Learn: Your Learning Assistant | Find Best Online Courses</title>
+  <meta name="description" content="Discover 1600+ online courses across 55+ categories: AI, Python, SEO, Google Ads, Digital Marketing, Stock Market, UI/UX, Video Editing and more. Free & Paid. English, Hindi & Telugu."/>
+  <meta name="keywords" content="online courses, free courses, AI courses, Python, SEO, Google Ads, digital marketing, data analytics, stock market, Udemy, Coursera, free certificate courses India, Telugu courses, Hindi courses"/>
+  <meta property="og:title"       content="Course2Learn: Find Best Online Courses"/>
+  <meta property="og:description" content="Your one-stop course discovery platform. 1600+ courses across 55+ categories. Free & Paid. English, Hindi & Telugu."/>
+  <meta property="og:url"         content="https://course2learn.in"/>
+  <meta property="og:type"        content="website"/>
+  <meta name="twitter:card"       content="summary_large_image"/>
+  <link rel="canonical" href="https://course2learn.in"/>
+  <link rel="preconnect" href="https://fonts.googleapis.com"/>
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet"/>
+  <link rel="stylesheet" href="css/style.css"/>
+  <link rel="icon" href="favicon.svg" type="image/svg+xml"/>
+</head>
+<body>
+
+<!-- ===== NAVBAR ===== -->
+<nav class="navbar">
+  <div class="container nav-inner">
+    <a href="#/" class="nav-logo">
+      <img src="logo.svg" alt="Course2Learn Logo"/>
+    </a>
+    <div class="nav-search">
+      <input type="text" id="navSearchInput" placeholder="Search courses, skills, topics…" autocomplete="off"/>
+      <button onclick="App.doNavSearch()">Search</button>
+    </div>
+    <div class="nav-links">
+      <a href="#/" id="nav-home">Home</a>
+      <a href="#/category/ai" id="nav-ai">AI</a>
+      <a href="#/category/python" id="nav-py">Python</a>
+      <a href="#/category/seo" id="nav-seo">SEO</a>
+      <a href="#/category/paid-advertising" id="nav-ads">Google Ads</a>
+      <a href="#/search?free=true" id="nav-free">Free</a>
+    </div>
+    <button class="nav-menu-btn" onclick="App.toggleMobileNav()" aria-label="Menu">☰</button>
+  </div>
+  <div class="mobile-nav" id="mobileNav">
+    <a href="#/">🏠 Home</a>
+    <div class="mobile-nav-group">🤖 AI & Data</div>
+    <a href="#/category/ai">🤖 AI & Machine Learning</a>
+    <a href="#/category/data-science">🔬 Data Science</a>
+    <a href="#/category/data-analytics">📊 Data Analytics</a>
+    <a href="#/category/machine-learning">🧠 Machine Learning</a>
+    <a href="#/category/prompt-engineering">💬 Prompt Engineering</a>
+    <a href="#/category/excel">📗 Excel & Sheets</a>
+    <a href="#/category/power-bi">📈 Power BI</a>
+    <a href="#/category/sql">🗄️ SQL & Databases</a>
+    <div class="mobile-nav-group">💻 Programming</div>
+    <a href="#/category/python">🐍 Python</a>
+    <a href="#/category/javascript">🟨 JavaScript</a>
+    <a href="#/category/react">⚛️ React & Frontend</a>
+    <a href="#/category/nodejs">🟩 Node.js & Backend</a>
+    <a href="#/category/mobile-dev">📱 Mobile Development</a>
+    <a href="#/category/cloud-computing">☁️ Cloud Computing</a>
+    <a href="#/category/devops">⚙️ DevOps & CI/CD</a>
+    <a href="#/category/docker">🐳 Docker & Kubernetes</a>
+    <a href="#/category/cybersecurity">🛡️ Cybersecurity</a>
+    <div class="mobile-nav-group">📣 Digital Marketing</div>
+    <a href="#/category/digital-marketing">📣 Digital Marketing</a>
+    <a href="#/category/seo">🔍 SEO</a>
+    <a href="#/category/paid-advertising">💸 Google & Meta Ads</a>
+    <a href="#/category/social-media">📲 Social Media</a>
+    <a href="#/category/content-marketing">✍️ Content Marketing</a>
+    <a href="#/category/email-marketing">📧 Email Marketing</a>
+    <a href="#/category/youtube-marketing">▶️ YouTube Marketing</a>
+    <a href="#/category/affiliate-marketing">🤝 Affiliate Marketing</a>
+    <div class="mobile-nav-group">🎨 Design & Creative</div>
+    <a href="#/category/ui-ux">🖱️ UI/UX Design</a>
+    <a href="#/category/graphic-design">🖼️ Graphic Design</a>
+    <a href="#/category/video-editing">🎬 Video Editing</a>
+    <a href="#/category/canva">🎭 Canva</a>
+    <a href="#/category/photo-editing">📸 Photo Editing</a>
+    <div class="mobile-nav-group">💰 Finance & Business</div>
+    <a href="#/category/stock-market">📊 Stock Market Trading</a>
+    <a href="#/category/finance">💰 Finance & Investing</a>
+    <a href="#/category/accounting">🧾 Accounting & GST</a>
+    <a href="#/category/entrepreneurship">💡 Entrepreneurship</a>
+    <a href="#/category/freelancing">🧑‍💻 Freelancing</a>
+    <a href="#/category/project-management">📋 Project Management</a>
+    <div class="mobile-nav-group">🎤 Personal Development</div>
+    <a href="#/category/english-speaking">🗣️ English Speaking</a>
+    <a href="#/category/interview-prep">🎤 Interview Preparation</a>
+    <a href="#/category/productivity">⏰ Productivity</a>
+    <a href="#/category/communication">🗨️ Communication Skills</a>
+    <a href="#/search?free=true">🎁 Free Courses</a>
+    <a href="#/search?cert=true">🏆 With Certificate</a>
+    <a href="#/search?lang=hindi">🇮🇳 Hindi Courses</a>
+    <a href="#/search?lang=telugu">🇮🇳 Telugu Courses</a>
+  </div>
+</nav>
+
+<!-- ===== MAIN APP ===== -->
+<main id="app"></main>
+
+<!-- ===== FOOTER ===== -->
+<footer>
+  <div class="container">
+    <div class="footer-grid">
+      <div class="footer-brand">
+        <div class="footer-logo">
+          <span>Course</span>2Learn
+        </div>
+        <p>Your one-stop platform to discover the best online courses from Udemy, Coursera, Google, YouTube and more. 1600+ courses. 55+ categories. English, Hindi & Telugu.</p>
+      </div>
+      <div class="footer-col">
+        <h4>Top Categories</h4>
+        <ul>
+          <li><a href="#/category/ai">🤖 AI & Machine Learning</a></li>
+          <li><a href="#/category/python">🐍 Python</a></li>
+          <li><a href="#/category/seo">🔍 SEO</a></li>
+          <li><a href="#/category/paid-advertising">💸 Google & Meta Ads</a></li>
+          <li><a href="#/category/data-analytics">📊 Data Analytics</a></li>
+          <li><a href="#/category/stock-market">📊 Stock Market</a></li>
+          <li><a href="#/category/ui-ux">🖱️ UI/UX Design</a></li>
+          <li><a href="#/category/cybersecurity">🛡️ Cybersecurity</a></li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <h4>Digital Marketing</h4>
+        <ul>
+          <li><a href="#/category/digital-marketing">Digital Marketing</a></li>
+          <li><a href="#/category/seo">Search Engine Optimization</a></li>
+          <li><a href="#/category/paid-advertising">Google Ads & PPC</a></li>
+          <li><a href="#/category/social-media">Social Media Marketing</a></li>
+          <li><a href="#/category/content-marketing">Content Marketing</a></li>
+          <li><a href="#/category/email-marketing">Email Marketing</a></li>
+          <li><a href="#/category/youtube-marketing">YouTube Marketing</a></li>
+          <li><a href="#/category/affiliate-marketing">Affiliate Marketing</a></li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <h4>Top Searches</h4>
+        <ul>
+          <li><a href="#/search?q=chatgpt">ChatGPT Courses</a></li>
+          <li><a href="#/search?q=python">Python Courses</a></li>
+          <li><a href="#/search?q=excel">Excel Courses</a></li>
+          <li><a href="#/search?q=google+ads">Google Ads Courses</a></li>
+          <li><a href="#/search?free=true">Free Courses</a></li>
+          <li><a href="#/search?cert=true">Courses with Certificate</a></li>
+          <li><a href="#/search?lang=hindi">Hindi Courses</a></li>
+          <li><a href="#/search?lang=telugu">Telugu Courses</a></li>
+        </ul>
+        <h4 style="margin-top:20px">About</h4>
+        <ul>
+          <li><a href="mailto:hello@course2learn.in">Contact Us</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <p>© 2025 Course2Learn.in. Your Learning Assistant. All Rights Reserved.</p>
+      <p>Courses are curated from external platforms. We may earn affiliate commissions. <a href="privacy.html">Privacy Policy</a></p>
+    </div>
+  </div>
+</footer>
+
+<div class="toast" id="toast"></div>
+
+<script src="js/app.js"></script>
+</body>
+</html>

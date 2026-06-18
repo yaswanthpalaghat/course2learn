@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 272 64">
+  <!-- ======= ICON (green rounded square + white book) ======= -->
+  <!-- Works standalone as favicon/site icon -->
+  <rect x="0" y="4" width="56" height="56" rx="12" fill="#059669"/>
+  <!-- Left book page -->
+  <path d="M9 15 C9 13.3 10.3 12 12 12 L26 12 L26 47 C19 44.5 11 45 9 47 Z" fill="white"/>
+  <!-- Right book page (slightly transparent for depth) -->
+  <path d="M28 12 L44 12 C45.7 12 47 13.3 47 15 L47 47 C45 45 37 44.5 28 47 Z" fill="white" opacity="0.88"/>
+  <!-- Spine -->
+  <rect x="26" y="12" width="2.5" height="35" fill="#059669"/>
+  <!-- Left page lines -->
+  <rect x="13" y="19" width="9" height="1.8" rx="0.9" fill="#059669" opacity="0.25"/>
+  <rect x="13" y="24" width="7" height="1.8" rx="0.9" fill="#059669" opacity="0.18"/>
+  <rect x="13" y="29" width="10" height="1.8" rx="0.9" fill="#059669" opacity="0.15"/>
+  <!-- Right page lines -->
+  <rect x="31" y="19" width="11" height="1.8" rx="0.9" fill="#059669" opacity="0.2"/>
+  <rect x="31" y="24" width="8" height="1.8" rx="0.9" fill="#059669" opacity="0.15"/>
+  <rect x="31" y="29" width="10" height="1.8" rx="0.9" fill="#059669" opacity="0.12"/>
+
+  <!-- ======= WORDMARK — no space between parts ======= -->
+  <text y="40" font-family="'Segoe UI', 'Inter', Arial, sans-serif" font-size="25" font-weight="800" letter-spacing="-0.4">
+    <tspan x="68" fill="#374151">Course</tspan><tspan fill="#059669" dx="0">2</tspan><tspan fill="#374151" dx="0">Learn</tspan>
+  </text>
+
+  <!-- ======= TAGLINE ======= -->
+  <text x="68" y="56" font-family="'Segoe UI', 'Inter', Arial, sans-serif" font-size="10.5" fill="#9CA3AF" font-weight="400" letter-spacing="0.2">Your Learning Assistant.</text>
+</svg>

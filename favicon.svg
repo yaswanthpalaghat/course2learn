@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- Green rounded square -->
+  <rect x="0" y="0" width="64" height="64" rx="14" fill="#059669"/>
+  <!-- Left book page -->
+  <path d="M10 17 C10 14.8 11.8 13 14 13 L30 13 L30 52 C22 49 12 50 10 52 Z" fill="white"/>
+  <!-- Right book page -->
+  <path d="M33 13 L50 13 C52.2 13 54 14.8 54 17 L54 52 C52 50 42 49 33 52 Z" fill="white" opacity="0.88"/>
+  <!-- Spine -->
+  <rect x="30" y="13" width="3" height="39" fill="#059669"/>
+</svg>

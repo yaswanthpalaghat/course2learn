@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://course2learn.in/sitemap.xml
+
+# Block data files from direct indexing
+Disallow: /data/
