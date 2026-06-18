@@ -1,0 +1,62 @@
+name: Course Crawler
+
+on:
+  schedule:
+    - cron: '0 2 */3 * *'
+  workflow_dispatch:
+    inputs:
+      category:
+        description: 'Specific category to crawl (leave empty for auto-next)'
+        required: false
+        default: ''
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r crawl/requirements.txt
+
+      - name: Run crawler
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          if [ -n "${{ github.event.inputs.category }}" ]; then
+            python crawl/crawler.py --category "${{ github.event.inputs.category }}"
+          else
+            python crawl/crawler.py --next
+          fi
+
+      - name: Commit updated data
+        run: |
+          git config user.name "Course2Learn Bot"
+          git config user.email "bot@course2learn.in"
+          git add data/courses.json crawl/crawl_state.json
+          git diff --staged --quiet || git commit -m "chore: crawl update $(date -u '+%Y-%m-%d')"
+          git push
+
+      - name: Deploy to Bluehost via FTP
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        with:
+          server: ${{ secrets.FTP_HOST }}
+          username: ${{ secrets.FTP_USER }}
+          password: ${{ secrets.FTP_PASS }}
+          local-dir: ./
+          server-dir: ${{ secrets.FTP_REMOTE_DIR }}
+          exclude: |
+            **/.git*
+            **/.git*/**
+            **/node_modules/**
+            crawl/**
+            .github/**
+            README.md
