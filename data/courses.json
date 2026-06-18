@@ -3540,5 +3540,2081 @@
     "isReal": true,
     "isFeatured": false,
     "updatedAt": "2026-06-18"
+  },
+  {
+    "id": 2067,
+    "title": "Time Management Fundamentals",
+    "provider": "LinkedIn Learning",
+    "instructor": "Dave Crenshaw",
+    "category": "productivity",
+    "level": "beginner",
+    "language": "english",
+    "duration": 2,
+    "price": "Paid",
+    "isFree": false,
+    "hasCertificate": true,
+    "rating": 4.7,
+    "description": "Master time management techniques to improve focus, reduce stress, and get more done.",
+    "skills": [
+      "Time Management",
+      "Prioritization",
+      "Focus"
+    ],
+    "tags": [
+      "productivity",
+      "time management",
+      "linkedin"
+    ],
+    "affiliate": "https://www.linkedin.com/learning/time-management-fundamentals",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-18"
+  },
+  {
+    "id": 2068,
+    "title": "Productivity Masterclass: Create a Custom System",
+    "provider": "Udemy",
+    "instructor": "Thomas Frank",
+    "category": "productivity",
+    "level": "beginner",
+    "language": "english",
+    "duration": 7,
+    "price": "Paid",
+    "isFree": false,
+    "hasCertificate": true,
+    "rating": 4.6,
+    "description": "Build a personalized productivity system using proven techniques and digital tools.",
+    "skills": [
+      "Productivity",
+      "Goal Setting",
+      "Task Management"
+    ],
+    "tags": [
+      "productivity",
+      "system",
+      "udemy"
+    ],
+    "affiliate": "https://www.udemy.com/course/productivity-masterclass-create-a-custom-system/",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-18"
+  },
+  {
+    "id": 2069,
+    "title": "Become a Speed Reading Machine",
+    "provider": "Udemy",
+    "instructor": "Jordan Harry",
+    "category": "productivity",
+    "level": "beginner",
+    "language": "english",
+    "duration": 4,
+    "price": "Paid",
+    "isFree": false,
+    "hasCertificate": true,
+    "rating": 4.5,
+    "description": "Triple your reading speed while improving comprehension and retention.",
+    "skills": [
+      "Speed Reading",
+      "Comprehension",
+      "Memory"
+    ],
+    "tags": [
+      "reading",
+      "productivity",
+      "learning"
+    ],
+    "affiliate": "https://www.udemy.com/course/become-a-speed-reading-machine/",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-18"
+  },
+  {
+    "id": 2070,
+    "title": "Personal Productivity Masterclass",
+    "provider": "Udemy",
+    "instructor": "Frank Kovacs",
+    "category": "productivity",
+    "level": "beginner",
+    "language": "english",
+    "duration": 5,
+    "price": "Paid",
+    "isFree": false,
+    "hasCertificate": true,
+    "rating": 4.5,
+    "description": "Transform your daily habits and routines to achieve peak personal productivity.",
+    "skills": [
+      "Habits",
+      "Routines",
+      "Goal Setting",
+      "Focus"
+    ],
+    "tags": [
+      "productivity",
+      "habits",
+      "personal development"
+    ],
+    "affiliate": "https://www.udemy.com/course/personal-productivity-masterclass/",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-18"
+  },
+  {
+    "id": 2071,
+    "title": "Focus Mastery: Breakthrough Your Productivity",
+    "provider": "Udemy",
+    "instructor": "Joeel & Natalie Rivera",
+    "category": "productivity",
+    "level": "beginner",
+    "language": "english",
+    "duration": 3,
+    "price": "Paid",
+    "isFree": false,
+    "hasCertificate": true,
+    "rating": 4.4,
+    "description": "Develop laser-sharp focus and eliminate distractions to maximize your productivity.",
+    "skills": [
+      "Focus",
+      "Deep Work",
+      "Concentration",
+      "Mindfulness"
+    ],
+    "tags": [
+      "focus",
+      "productivity",
+      "mindfulness"
+    ],
+    "affiliate": "https://www.udemy.com/course/focus-mastery/",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-18"
+  },
+  {
+    "id": 2072,
+    "title": "Salesforce Certified Administrator",
+    "provider": "Udemy",
+    "instructor": "Mike Wheeler",
+    "category": "business",
+    "level": "intermediate",
+    "language": "english",
+    "duration": 15,
+    "price": "Paid",
+    "isFree": false,
+    "hasCertificate": true,
+    "rating": 4.6,
+    "description": "Prepare for the Salesforce Administrator certification with hands-on practice.",
+    "skills": [
+      "Salesforce",
+      "CRM",
+      "Admin",
+      "Reports"
+    ],
+    "tags": [
+      "salesforce",
+      "crm",
+      "certification"
+    ],
+    "affiliate": "https://www.udemy.com/course/salesforce-administrator/",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-18"
+  },
+  {
+    "id": 2073,
+    "title": "HubSpot CRM Essentials",
+    "provider": "HubSpot Academy",
+    "instructor": "HubSpot Team",
+    "category": "business",
+    "level": "beginner",
+    "language": "english",
+    "duration": 3,
+    "price": "Free",
+    "isFree": true,
+    "hasCertificate": true,
+    "rating": 4.6,
+    "description": "Learn the fundamentals of HubSpot CRM to manage contacts, deals, and pipelines.",
+    "skills": [
+      "HubSpot",
+      "CRM",
+      "Pipeline",
+      "Contact Management"
+    ],
+    "tags": [
+      "hubspot",
+      "crm",
+      "free"
+    ],
+    "affiliate": "https://academy.hubspot.com/courses/hubspot-crm-essentials",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-18"
+  },
+  {
+    "id": 2074,
+    "title": "Microsoft Dynamics 365 Fundamentals",
+    "provider": "Microsoft Learn",
+    "instructor": "Microsoft Team",
+    "category": "business",
+    "level": "beginner",
+    "language": "english",
+    "duration": 4,
+    "price": "Free",
+    "isFree": true,
+    "hasCertificate": true,
+    "rating": 4.5,
+    "description": "Introduction to Dynamics 365 CRM capabilities for sales, service, and marketing.",
+    "skills": [
+      "Dynamics 365",
+      "CRM",
+      "Microsoft",
+      "ERP"
+    ],
+    "tags": [
+      "microsoft",
+      "dynamics",
+      "crm",
+      "free"
+    ],
+    "affiliate": "https://learn.microsoft.com/en-us/training/paths/dynamics-365-fundamentals/",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-18"
+  },
+  {
+    "id": 2075,
+    "title": "Zoho CRM Masterclass",
+    "provider": "Udemy",
+    "instructor": "Vijay Sai",
+    "category": "business",
+    "level": "beginner",
+    "language": "english",
+    "duration": 6,
+    "price": "Paid",
+    "isFree": false,
+    "hasCertificate": true,
+    "rating": 4.4,
+    "description": "Master Zoho CRM to manage leads, contacts, and automate your sales process.",
+    "skills": [
+      "Zoho CRM",
+      "Sales Automation",
+      "Lead Management"
+    ],
+    "tags": [
+      "zoho",
+      "crm",
+      "sales"
+    ],
+    "affiliate": "https://www.udemy.com/course/zoho-crm-masterclass/",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-18"
+  },
+  {
+    "id": 2076,
+    "title": "CRM Fundamentals",
+    "provider": "LinkedIn Learning",
+    "instructor": "LinkedIn Instructor",
+    "category": "business",
+    "level": "beginner",
+    "language": "english",
+    "duration": 2,
+    "price": "Paid",
+    "isFree": false,
+    "hasCertificate": true,
+    "rating": 4.5,
+    "description": "Understand CRM concepts, implementation strategies, and best practices.",
+    "skills": [
+      "CRM",
+      "Customer Relations",
+      "Sales Process"
+    ],
+    "tags": [
+      "crm",
+      "fundamentals",
+      "linkedin"
+    ],
+    "affiliate": "https://www.linkedin.com/learning/crm-fundamentals-2",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-18"
+  },
+  {
+    "id": 2077,
+    "title": "Graphic Design Masterclass",
+    "provider": "Udemy",
+    "instructor": "Lindsay Marsh",
+    "category": "design",
+    "level": "beginner",
+    "language": "english",
+    "duration": 20,
+    "price": "Paid",
+    "isFree": false,
+    "hasCertificate": true,
+    "rating": 4.6,
+    "description": "Complete graphic design course covering typography, color, branding, and layout.",
+    "skills": [
+      "Graphic Design",
+      "Typography",
+      "Color Theory",
+      "Branding",
+      "Adobe"
+    ],
+    "tags": [
+      "graphic design",
+      "design",
+      "adobe"
+    ],
+    "affiliate": "https://www.udemy.com/course/graphic-design-masterclass-everything-you-need-to-know/",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-18"
+  },
+  {
+    "id": 2078,
+    "title": "Adobe Photoshop CC – Essentials Training Course",
+    "provider": "Udemy",
+    "instructor": "Daniel Walter Scott",
+    "category": "design",
+    "level": "beginner",
+    "language": "english",
+    "duration": 15,
+    "price": "Paid",
+    "isFree": false,
+    "hasCertificate": true,
+    "rating": 4.7,
+    "description": "Learn Photoshop from scratch — photo editing, retouching, compositing, and design.",
+    "skills": [
+      "Photoshop",
+      "Photo Editing",
+      "Retouching",
+      "Digital Art"
+    ],
+    "tags": [
+      "photoshop",
+      "design",
+      "adobe"
+    ],
+    "affiliate": "https://www.udemy.com/course/adobe-photoshop-cc-essentials-training-course/",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-18"
+  },
+  {
+    "id": 2079,
+    "title": "User Experience Design Essentials – Adobe XD",
+    "provider": "Udemy",
+    "instructor": "Daniel Walter Scott",
+    "category": "design",
+    "level": "beginner",
+    "language": "english",
+    "duration": 12,
+    "price": "Paid",
+    "isFree": false,
+    "hasCertificate": true,
+    "rating": 4.6,
+    "description": "Design beautiful UX/UI interfaces using Adobe XD with wireframes and prototypes.",
+    "skills": [
+      "UX Design",
+      "Adobe XD",
+      "Wireframing",
+      "Prototyping"
+    ],
+    "tags": [
+      "ux",
+      "ui",
+      "adobe xd",
+      "design"
+    ],
+    "affiliate": "https://www.udemy.com/course/ui-ux-web-design-using-adobe-xd/",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-18"
+  },
+  {
+    "id": 2080,
+    "title": "Figma UI/UX Design Essentials",
+    "provider": "Udemy",
+    "instructor": "Daniel Walter Scott",
+    "category": "design",
+    "level": "beginner",
+    "language": "english",
+    "duration": 10,
+    "price": "Paid",
+    "isFree": false,
+    "hasCertificate": true,
+    "rating": 4.7,
+    "description": "Master Figma for UI/UX design — from basics to professional app design workflows.",
+    "skills": [
+      "Figma",
+      "UI Design",
+      "UX Design",
+      "Prototyping"
+    ],
+    "tags": [
+      "figma",
+      "ui",
+      "ux",
+      "design"
+    ],
+    "affiliate": "https://www.udemy.com/course/figma-uiux-design-essentials/",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-18"
+  },
+  {
+    "id": 2081,
+    "title": "Graphic Design Foundations: Typography",
+    "provider": "LinkedIn Learning",
+    "instructor": "Sean Adams",
+    "category": "design",
+    "level": "beginner",
+    "language": "english",
+    "duration": 2,
+    "price": "Paid",
+    "isFree": false,
+    "hasCertificate": true,
+    "rating": 4.6,
+    "description": "Master typography fundamentals — fonts, hierarchy, spacing, and type pairings.",
+    "skills": [
+      "Typography",
+      "Graphic Design",
+      "Fonts",
+      "Layout"
+    ],
+    "tags": [
+      "typography",
+      "design",
+      "linkedin"
+    ],
+    "affiliate": "https://www.linkedin.com/learning/graphic-design-foundations-typography-2022",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-18"
+  },
+  {
+    "id": 2082,
+    "title": "DaVinci Resolve: The Complete Video Editing Course",
+    "provider": "Udemy",
+    "instructor": "Darren Mostyn",
+    "category": "video-editing",
+    "level": "beginner",
+    "language": "english",
+    "duration": 12,
+    "price": "Paid",
+    "isFree": false,
+    "hasCertificate": true,
+    "rating": 4.7,
+    "description": "Master DaVinci Resolve for editing, color grading, VFX, and audio post-production.",
+    "skills": [
+      "DaVinci Resolve",
+      "Color Grading",
+      "Video Editing",
+      "VFX"
+    ],
+    "tags": [
+      "davinci resolve",
+      "video editing",
+      "color grading"
+    ],
+    "affiliate": "https://www.udemy.com/course/davinci-resolve-15-course/",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-18"
+  },
+  {
+    "id": 2083,
+    "title": "Video Editing with Final Cut Pro X",
+    "provider": "Udemy",
+    "instructor": "Phil Ebiner",
+    "category": "video-editing",
+    "level": "beginner",
+    "language": "english",
+    "duration": 8,
+    "price": "Paid",
+    "isFree": false,
+    "hasCertificate": true,
+    "rating": 4.5,
+    "description": "Complete Final Cut Pro X course for macOS video editors — from beginner to advanced.",
+    "skills": [
+      "Final Cut Pro",
+      "Video Editing",
+      "macOS",
+      "Timeline"
+    ],
+    "tags": [
+      "final cut pro",
+      "video editing",
+      "mac"
+    ],
+    "affiliate": "https://www.udemy.com/course/final-cut-pro-x-masterclass/",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-18"
+  },
+  {
+    "id": 2084,
+    "title": "Learning Premiere Pro",
+    "provider": "LinkedIn Learning",
+    "instructor": "Ashley Kennedy",
+    "category": "video-editing",
+    "level": "beginner",
+    "language": "english",
+    "duration": 5,
+    "price": "Paid",
+    "isFree": false,
+    "hasCertificate": true,
+    "rating": 4.6,
+    "description": "Essential Premiere Pro training covering workflow, editing, audio, and export.",
+    "skills": [
+      "Premiere Pro",
+      "Video Editing",
+      "Audio Mixing"
+    ],
+    "tags": [
+      "premiere pro",
+      "linkedin",
+      "video"
+    ],
+    "affiliate": "https://www.linkedin.com/learning/premiere-pro-essential-training",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-18"
+  },
+  {
+    "id": 2085,
+    "title": "Video Editing Masterclass: Edit Your First Video",
+    "provider": "Udemy",
+    "instructor": "Phil Ebiner",
+    "category": "video-editing",
+    "level": "beginner",
+    "language": "english",
+    "duration": 7,
+    "price": "Paid",
+    "isFree": false,
+    "hasCertificate": true,
+    "rating": 4.5,
+    "description": "Edit your first video from scratch using multiple tools and professional techniques.",
+    "skills": [
+      "Video Editing",
+      "Storytelling",
+      "Transitions",
+      "Audio"
+    ],
+    "tags": [
+      "video editing",
+      "beginner",
+      "masterclass"
+    ],
+    "affiliate": "https://www.udemy.com/course/video-editing-masterclass/",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-18"
+  },
+  {
+    "id": 2086,
+    "title": "Master the Coding Interview: Data Structures & Algorithms",
+    "provider": "Udemy",
+    "instructor": "Andrei Neagoie",
+    "category": "interview-prep",
+    "level": "intermediate",
+    "language": "english",
+    "duration": 20,
+    "price": "Paid",
+    "isFree": false,
+    "hasCertificate": true,
+    "rating": 4.7,
+    "description": "Crack coding interviews at top tech companies with data structures and algorithms.",
+    "skills": [
+      "DSA",
+      "Algorithms",
+      "Data Structures",
+      "Interview Prep"
+    ],
+    "tags": [
+      "coding interview",
+      "dsa",
+      "tech interview"
+    ],
+    "affiliate": "https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-18"
+  },
+  {
+    "id": 2087,
+    "title": "The Ultimate Job Interview Preparation Course",
+    "provider": "Udemy",
+    "instructor": "Chris Croft",
+    "category": "interview-prep",
+    "level": "beginner",
+    "language": "english",
+    "duration": 5,
+    "price": "Paid",
+    "isFree": false,
+    "hasCertificate": true,
+    "rating": 4.5,
+    "description": "Prepare for any job interview with confidence — questions, answers, and body language.",
+    "skills": [
+      "Interview Skills",
+      "Communication",
+      "Confidence",
+      "Body Language"
+    ],
+    "tags": [
+      "job interview",
+      "career",
+      "preparation"
+    ],
+    "affiliate": "https://www.udemy.com/course/the-ultimate-job-interview-preparation-course/",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-18"
+  },
+  {
+    "id": 2088,
+    "title": "Behavioral Interview Success",
+    "provider": "Udemy",
+    "instructor": "Linda Raynier",
+    "category": "interview-prep",
+    "level": "beginner",
+    "language": "english",
+    "duration": 4,
+    "price": "Paid",
+    "isFree": false,
+    "hasCertificate": true,
+    "rating": 4.5,
+    "description": "Master behavioral interview questions using STAR method and proven frameworks.",
+    "skills": [
+      "Behavioral Interview",
+      "STAR Method",
+      "Storytelling"
+    ],
+    "tags": [
+      "behavioral interview",
+      "hr",
+      "star method"
+    ],
+    "affiliate": "https://www.udemy.com/course/behavioral-interview-success/",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-18"
+  },
+  {
+    "id": 2089,
+    "title": "Mastering the Software Engineering Interview",
+    "provider": "Udemy",
+    "instructor": "Peter Farrell",
+    "category": "interview-prep",
+    "level": "intermediate",
+    "language": "english",
+    "duration": 6,
+    "price": "Paid",
+    "isFree": false,
+    "hasCertificate": true,
+    "rating": 4.4,
+    "description": "Ace software engineering interviews with system design, coding, and communication skills.",
+    "skills": [
+      "System Design",
+      "Coding",
+      "Software Engineering",
+      "Interviews"
+    ],
+    "tags": [
+      "software engineering",
+      "interview",
+      "system design"
+    ],
+    "affiliate": "https://www.udemy.com/course/mastering-the-software-engineering-interview/",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-18"
+  },
+  {
+    "id": 2090,
+    "title": "Expert Tips for Answering Common Interview Questions",
+    "provider": "LinkedIn Learning",
+    "instructor": "Jenny Foss",
+    "category": "interview-prep",
+    "level": "beginner",
+    "language": "english",
+    "duration": 1,
+    "price": "Paid",
+    "isFree": false,
+    "hasCertificate": true,
+    "rating": 4.6,
+    "description": "Expert guidance on answering the most common and tricky interview questions.",
+    "skills": [
+      "Interview Questions",
+      "Communication",
+      "Career"
+    ],
+    "tags": [
+      "interview",
+      "linkedin",
+      "career"
+    ],
+    "affiliate": "https://www.linkedin.com/learning/expert-tips-for-answering-common-interview-questions",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-18"
+  },
+  {
+    "id": 2091,
+    "title": "Resume Writing Mastery",
+    "provider": "Udemy",
+    "instructor": "Bogdan Iordache",
+    "category": "interview-prep",
+    "level": "beginner",
+    "language": "english",
+    "duration": 3,
+    "price": "Paid",
+    "isFree": false,
+    "hasCertificate": true,
+    "rating": 4.5,
+    "description": "Write a powerful resume that gets noticed by recruiters and passes ATS filters.",
+    "skills": [
+      "Resume Writing",
+      "ATS",
+      "Career",
+      "LinkedIn"
+    ],
+    "tags": [
+      "resume",
+      "career",
+      "job search"
+    ],
+    "affiliate": "https://www.udemy.com/course/resume-writing-mastery/",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-18"
+  },
+  {
+    "id": 2092,
+    "title": "Writing a Winning Resume",
+    "provider": "LinkedIn Learning",
+    "instructor": "Lauren Neefe",
+    "category": "interview-prep",
+    "level": "beginner",
+    "language": "english",
+    "duration": 1,
+    "price": "Paid",
+    "isFree": false,
+    "hasCertificate": true,
+    "rating": 4.6,
+    "description": "Craft a compelling resume that stands out in today's competitive job market.",
+    "skills": [
+      "Resume",
+      "Job Application",
+      "Career Branding"
+    ],
+    "tags": [
+      "resume",
+      "linkedin",
+      "career"
+    ],
+    "affiliate": "https://www.linkedin.com/learning/writing-a-winning-resume",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-18"
+  },
+  {
+    "id": 2093,
+    "title": "The Complete Resume Writing Course",
+    "provider": "Udemy",
+    "instructor": "Mike Wheeler",
+    "category": "interview-prep",
+    "level": "beginner",
+    "language": "english",
+    "duration": 4,
+    "price": "Paid",
+    "isFree": false,
+    "hasCertificate": true,
+    "rating": 4.4,
+    "description": "A comprehensive course on writing resumes, cover letters, and LinkedIn profiles.",
+    "skills": [
+      "Resume",
+      "Cover Letter",
+      "LinkedIn",
+      "Job Search"
+    ],
+    "tags": [
+      "resume",
+      "cover letter",
+      "career"
+    ],
+    "affiliate": "https://www.udemy.com/course/the-complete-resume-writing-course/",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-18"
+  },
+  {
+    "id": 2094,
+    "title": "How to Write a Stellar Resume",
+    "provider": "Udemy",
+    "instructor": "Kara Ronin",
+    "category": "interview-prep",
+    "level": "beginner",
+    "language": "english",
+    "duration": 2,
+    "price": "Paid",
+    "isFree": false,
+    "hasCertificate": true,
+    "rating": 4.4,
+    "description": "Write a stellar resume that captures attention and lands you more interviews.",
+    "skills": [
+      "Resume Writing",
+      "Career",
+      "Personal Branding"
+    ],
+    "tags": [
+      "resume",
+      "career",
+      "personal brand"
+    ],
+    "affiliate": "https://www.udemy.com/course/how-to-write-a-stellar-resume/",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-18"
+  },
+  {
+    "id": 2095,
+    "title": "Land Your Dream Job: Resume Writing",
+    "provider": "Udemy",
+    "instructor": "Mike Thomas",
+    "category": "interview-prep",
+    "level": "beginner",
+    "language": "english",
+    "duration": 3,
+    "price": "Paid",
+    "isFree": false,
+    "hasCertificate": true,
+    "rating": 4.3,
+    "description": "Step-by-step resume writing guide to help you land your dream job fast.",
+    "skills": [
+      "Resume",
+      "Job Application",
+      "Career"
+    ],
+    "tags": [
+      "resume",
+      "dream job",
+      "career"
+    ],
+    "affiliate": "https://www.udemy.com/course/resume-writing/",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-18"
+  },
+  {
+    "id": 2096,
+    "title": "AWS Certified Cloud Practitioner",
+    "provider": "Udemy",
+    "instructor": "Stephane Maarek",
+    "category": "cloud-computing",
+    "level": "beginner",
+    "language": "english",
+    "duration": 11,
+    "price": "Paid",
+    "isFree": false,
+    "hasCertificate": true,
+    "rating": 4.7,
+    "description": "Pass the AWS Cloud Practitioner exam with comprehensive training and practice tests.",
+    "skills": [
+      "AWS",
+      "Cloud Computing",
+      "CLF-C02",
+      "EC2",
+      "S3"
+    ],
+    "tags": [
+      "aws",
+      "cloud",
+      "certification"
+    ],
+    "affiliate": "https://www.udemy.com/course/aws-certified-cloud-practitioner-training-course/",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-18"
+  },
+  {
+    "id": 2097,
+    "title": "Google Cloud Digital Leader Certification",
+    "provider": "Udemy",
+    "instructor": "Dan Sullivan",
+    "category": "cloud-computing",
+    "level": "beginner",
+    "language": "english",
+    "duration": 8,
+    "price": "Paid",
+    "isFree": false,
+    "hasCertificate": true,
+    "rating": 4.6,
+    "description": "Prepare for the Google Cloud Digital Leader certification exam.",
+    "skills": [
+      "Google Cloud",
+      "GCP",
+      "Cloud",
+      "Certification"
+    ],
+    "tags": [
+      "google cloud",
+      "gcp",
+      "cloud certification"
+    ],
+    "affiliate": "https://www.udemy.com/course/google-cloud-digital-leader-certification/",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-18"
+  },
+  {
+    "id": 2098,
+    "title": "Microsoft Azure Administrator (AZ-104)",
+    "provider": "Udemy",
+    "instructor": "Alan Rodrigues",
+    "category": "cloud-computing",
+    "level": "intermediate",
+    "language": "english",
+    "duration": 14,
+    "price": "Paid",
+    "isFree": false,
+    "hasCertificate": true,
+    "rating": 4.6,
+    "description": "Complete AZ-104 Azure Administrator exam prep with hands-on labs.",
+    "skills": [
+      "Azure",
+      "Microsoft Cloud",
+      "AZ-104",
+      "Virtual Machines"
+    ],
+    "tags": [
+      "azure",
+      "microsoft",
+      "cloud",
+      "az-104"
+    ],
+    "affiliate": "https://www.udemy.com/course/microsoft-azure-administrator-az-104/",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-18"
+  },
+  {
+    "id": 2099,
+    "title": "Cloud Computing Foundations",
+    "provider": "LinkedIn Learning",
+    "instructor": "David Linthicum",
+    "category": "cloud-computing",
+    "level": "beginner",
+    "language": "english",
+    "duration": 2,
+    "price": "Paid",
+    "isFree": false,
+    "hasCertificate": true,
+    "rating": 4.5,
+    "description": "Understand cloud computing concepts, deployment models, and service types.",
+    "skills": [
+      "Cloud Computing",
+      "IaaS",
+      "PaaS",
+      "SaaS"
+    ],
+    "tags": [
+      "cloud",
+      "foundations",
+      "linkedin"
+    ],
+    "affiliate": "https://www.linkedin.com/learning/cloud-computing-foundations",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-18"
+  },
+  {
+    "id": 2100,
+    "title": "CompTIA Cloud+ Certification",
+    "provider": "Udemy",
+    "instructor": "Jason Dion",
+    "category": "cloud-computing",
+    "level": "intermediate",
+    "language": "english",
+    "duration": 10,
+    "price": "Paid",
+    "isFree": false,
+    "hasCertificate": true,
+    "rating": 4.5,
+    "description": "Prepare for CompTIA Cloud+ CV0-003 certification with full exam coverage.",
+    "skills": [
+      "CompTIA Cloud+",
+      "Cloud Security",
+      "Virtualization"
+    ],
+    "tags": [
+      "comptia",
+      "cloud",
+      "certification"
+    ],
+    "affiliate": "https://www.udemy.com/course/comptia-cloud-plus-cv0-003/",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-18"
+  },
+  {
+    "id": 2101,
+    "title": "Web3 Blockchain Developer Bootcamp",
+    "provider": "Udemy",
+    "instructor": "Nathan Daspe",
+    "category": "blockchain",
+    "level": "intermediate",
+    "language": "english",
+    "duration": 12,
+    "price": "Paid",
+    "isFree": false,
+    "hasCertificate": true,
+    "rating": 4.4,
+    "description": "Build decentralized applications and smart contracts from scratch with Web3.",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Smart Contracts",
+      "DApps"
+    ],
+    "tags": [
+      "web3",
+      "blockchain",
+      "dapp"
+    ],
+    "affiliate": "https://www.udemy.com/course/web3-blockchain-developer-bootcamp/",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-18"
+  },
+  {
+    "id": 2102,
+    "title": "Introduction to Web3",
+    "provider": "edX",
+    "instructor": "University Instructors",
+    "category": "blockchain",
+    "level": "beginner",
+    "language": "english",
+    "duration": 6,
+    "price": "Free",
+    "isFree": true,
+    "hasCertificate": true,
+    "rating": 4.5,
+    "description": "Learn the fundamentals of Web3 including decentralization, NFTs, and DeFi.",
+    "skills": [
+      "Web3",
+      "NFT",
+      "DeFi",
+      "Decentralization"
+    ],
+    "tags": [
+      "web3",
+      "nft",
+      "defi",
+      "edx"
+    ],
+    "affiliate": "https://www.edx.org/course/introduction-to-web3",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-18"
+  },
+  {
+    "id": 2103,
+    "title": "The Complete Web3 Bootcamp",
+    "provider": "Udemy",
+    "instructor": "Alisdair Sherrats",
+    "category": "blockchain",
+    "level": "intermediate",
+    "language": "english",
+    "duration": 15,
+    "price": "Paid",
+    "isFree": false,
+    "hasCertificate": true,
+    "rating": 4.5,
+    "description": "Comprehensive Web3 bootcamp covering Ethereum, Solidity, NFTs, and DeFi protocols.",
+    "skills": [
+      "Web3",
+      "Ethereum",
+      "Solidity",
+      "NFT",
+      "DeFi"
+    ],
+    "tags": [
+      "web3",
+      "ethereum",
+      "bootcamp"
+    ],
+    "affiliate": "https://www.udemy.com/course/the-complete-web3-bootcamp/",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-18"
+  },
+  {
+    "id": 2104,
+    "title": "Ethereum and Solidity: The Complete Developer's Guide",
+    "provider": "Udemy",
+    "instructor": "Stephen Grider",
+    "category": "blockchain",
+    "level": "intermediate",
+    "language": "english",
+    "duration": 24,
+    "price": "Paid",
+    "isFree": false,
+    "hasCertificate": true,
+    "rating": 4.6,
+    "description": "Build real Ethereum blockchain applications with Solidity smart contracts.",
+    "skills": [
+      "Ethereum",
+      "Solidity",
+      "Smart Contracts",
+      "Web3.js"
+    ],
+    "tags": [
+      "ethereum",
+      "solidity",
+      "blockchain"
+    ],
+    "affiliate": "https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-18"
+  },
+  {
+    "id": 2105,
+    "title": "Web3 DApp Development",
+    "provider": "Udemy",
+    "instructor": "David Joseph Katz",
+    "category": "blockchain",
+    "level": "intermediate",
+    "language": "english",
+    "duration": 10,
+    "price": "Paid",
+    "isFree": false,
+    "hasCertificate": true,
+    "rating": 4.4,
+    "description": "Build and deploy decentralized applications (DApps) on multiple blockchains.",
+    "skills": [
+      "DApp",
+      "Web3",
+      "Solidity",
+      "IPFS"
+    ],
+    "tags": [
+      "dapp",
+      "web3",
+      "blockchain"
+    ],
+    "affiliate": "https://www.udemy.com/course/web3-dapp-development/",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-18"
+  },
+  {
+    "id": 2106,
+    "title": "Blockchain Basics",
+    "provider": "edX",
+    "instructor": "University at Buffalo",
+    "category": "blockchain",
+    "level": "beginner",
+    "language": "english",
+    "duration": 5,
+    "price": "Free",
+    "isFree": true,
+    "hasCertificate": true,
+    "rating": 4.5,
+    "description": "Understand blockchain fundamentals — consensus, hashing, blocks, and distributed ledgers.",
+    "skills": [
+      "Blockchain",
+      "Distributed Ledger",
+      "Consensus",
+      "Cryptography"
+    ],
+    "tags": [
+      "blockchain",
+      "basics",
+      "edx"
+    ],
+    "affiliate": "https://www.edx.org/course/blockchain-basics",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-18"
+  },
+  {
+    "id": 2107,
+    "title": "Blockchain For Beginners",
+    "provider": "Udemy",
+    "instructor": "Mark Farragher",
+    "category": "blockchain",
+    "level": "beginner",
+    "language": "english",
+    "duration": 5,
+    "price": "Paid",
+    "isFree": false,
+    "hasCertificate": true,
+    "rating": 4.4,
+    "description": "A beginner-friendly introduction to blockchain concepts and real-world applications.",
+    "skills": [
+      "Blockchain",
+      "Cryptocurrency",
+      "Bitcoin",
+      "Smart Contracts"
+    ],
+    "tags": [
+      "blockchain",
+      "beginner",
+      "crypto"
+    ],
+    "affiliate": "https://www.udemy.com/course/blockchain-for-beginners/",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-18"
+  },
+  {
+    "id": 2108,
+    "title": "Blockchain Architecture",
+    "provider": "edX",
+    "instructor": "University Instructors",
+    "category": "blockchain",
+    "level": "intermediate",
+    "language": "english",
+    "duration": 6,
+    "price": "Free",
+    "isFree": true,
+    "hasCertificate": true,
+    "rating": 4.5,
+    "description": "Deep dive into blockchain architecture, design patterns, and enterprise use cases.",
+    "skills": [
+      "Blockchain Architecture",
+      "Hyperledger",
+      "Smart Contracts",
+      "Enterprise Blockchain"
+    ],
+    "tags": [
+      "blockchain",
+      "architecture",
+      "edx"
+    ],
+    "affiliate": "https://www.edx.org/course/blockchain-architecture",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-18"
+  },
+  {
+    "id": 2109,
+    "title": "The Blockchain Developer Bootcamp",
+    "provider": "Udemy",
+    "instructor": "Sebastien Arbogast",
+    "category": "blockchain",
+    "level": "intermediate",
+    "language": "english",
+    "duration": 18,
+    "price": "Paid",
+    "isFree": false,
+    "hasCertificate": true,
+    "rating": 4.5,
+    "description": "Complete blockchain developer course — Ethereum, Solidity, testing, and deployment.",
+    "skills": [
+      "Blockchain",
+      "Solidity",
+      "Ethereum",
+      "Testing",
+      "Deployment"
+    ],
+    "tags": [
+      "blockchain",
+      "developer",
+      "solidity"
+    ],
+    "affiliate": "https://www.udemy.com/course/blockchain-developer/",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-18"
+  },
+  {
+    "id": 2110,
+    "title": "Blockchain Technology and Applications",
+    "provider": "edX",
+    "instructor": "University Instructors",
+    "category": "blockchain",
+    "level": "intermediate",
+    "language": "english",
+    "duration": 8,
+    "price": "Free",
+    "isFree": true,
+    "hasCertificate": true,
+    "rating": 4.4,
+    "description": "Explore blockchain applications in finance, supply chain, healthcare, and governance.",
+    "skills": [
+      "Blockchain",
+      "DeFi",
+      "Supply Chain",
+      "Tokenization"
+    ],
+    "tags": [
+      "blockchain",
+      "applications",
+      "edx"
+    ],
+    "affiliate": "https://www.edx.org/course/blockchain-technology-and-applications",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-18"
+  },
+  {
+    "id": 2111,
+    "title": "DevOps Beginners Guide",
+    "provider": "Udemy",
+    "instructor": "Kunal Kushwaha",
+    "category": "devops",
+    "level": "beginner",
+    "language": "english",
+    "duration": 8,
+    "price": "Paid",
+    "isFree": false,
+    "hasCertificate": true,
+    "rating": 4.5,
+    "description": "Introduction to DevOps culture, tools, and practices for beginners.",
+    "skills": [
+      "DevOps",
+      "CI/CD",
+      "Linux",
+      "Automation"
+    ],
+    "tags": [
+      "devops",
+      "beginner",
+      "automation"
+    ],
+    "affiliate": "https://www.udemy.com/course/devops-beginners-guide/",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-18"
+  },
+  {
+    "id": 2112,
+    "title": "Docker and Kubernetes: The Complete Guide",
+    "provider": "Udemy",
+    "instructor": "Stephen Grider",
+    "category": "devops",
+    "level": "intermediate",
+    "language": "english",
+    "duration": 22,
+    "price": "Paid",
+    "isFree": false,
+    "hasCertificate": true,
+    "rating": 4.7,
+    "description": "Master Docker containers and Kubernetes orchestration from scratch.",
+    "skills": [
+      "Docker",
+      "Kubernetes",
+      "Containers",
+      "DevOps"
+    ],
+    "tags": [
+      "docker",
+      "kubernetes",
+      "containers"
+    ],
+    "affiliate": "https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-18"
+  },
+  {
+    "id": 2113,
+    "title": "Jenkins, From Zero To Hero",
+    "provider": "Udemy",
+    "instructor": "Ricardo Andre Gonzalez Gomez",
+    "category": "devops",
+    "level": "beginner",
+    "language": "english",
+    "duration": 12,
+    "price": "Paid",
+    "isFree": false,
+    "hasCertificate": true,
+    "rating": 4.5,
+    "description": "Learn Jenkins from scratch — pipelines, plugins, CI/CD integration, and deployment.",
+    "skills": [
+      "Jenkins",
+      "CI/CD",
+      "Pipelines",
+      "DevOps"
+    ],
+    "tags": [
+      "jenkins",
+      "ci/cd",
+      "devops"
+    ],
+    "affiliate": "https://www.udemy.com/course/jenkins-from-zero-to-hero/",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-18"
+  },
+  {
+    "id": 2114,
+    "title": "CI/CD Fundamentals",
+    "provider": "edX",
+    "instructor": "University Instructors",
+    "category": "devops",
+    "level": "beginner",
+    "language": "english",
+    "duration": 5,
+    "price": "Free",
+    "isFree": true,
+    "hasCertificate": true,
+    "rating": 4.4,
+    "description": "Learn continuous integration and delivery fundamentals for modern software teams.",
+    "skills": [
+      "CI/CD",
+      "DevOps",
+      "Pipelines",
+      "Automation"
+    ],
+    "tags": [
+      "cicd",
+      "devops",
+      "automation",
+      "edx"
+    ],
+    "affiliate": "https://www.edx.org/course/cicd-fundamentals",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-18"
+  },
+  {
+    "id": 2115,
+    "title": "Ansible for the Absolute Beginner",
+    "provider": "Udemy",
+    "instructor": "Mumshad Mannambeth",
+    "category": "devops",
+    "level": "beginner",
+    "language": "english",
+    "duration": 5,
+    "price": "Paid",
+    "isFree": false,
+    "hasCertificate": true,
+    "rating": 4.7,
+    "description": "Learn Ansible automation with hands-on labs — playbooks, roles, and inventory.",
+    "skills": [
+      "Ansible",
+      "Automation",
+      "DevOps",
+      "YAML"
+    ],
+    "tags": [
+      "ansible",
+      "devops",
+      "automation"
+    ],
+    "affiliate": "https://www.udemy.com/course/ansible-for-the-absolute-beginner-hands-on/",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-18"
+  },
+  {
+    "id": 2116,
+    "title": "Flutter & Dart – The Complete Guide",
+    "provider": "Udemy",
+    "instructor": "Maximilian Schwarzmüller",
+    "category": "mobile-dev",
+    "level": "beginner",
+    "language": "english",
+    "duration": 42,
+    "price": "Paid",
+    "isFree": false,
+    "hasCertificate": true,
+    "rating": 4.7,
+    "description": "Build iOS and Android apps with Flutter and Dart — from scratch to app store.",
+    "skills": [
+      "Flutter",
+      "Dart",
+      "iOS",
+      "Android",
+      "Mobile Development"
+    ],
+    "tags": [
+      "flutter",
+      "dart",
+      "mobile",
+      "cross-platform"
+    ],
+    "affiliate": "https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-18"
+  },
+  {
+    "id": 2117,
+    "title": "iOS App Development Bootcamp",
+    "provider": "Udemy",
+    "instructor": "Dr. Angela Yu",
+    "category": "mobile-dev",
+    "level": "beginner",
+    "language": "english",
+    "duration": 55,
+    "price": "Paid",
+    "isFree": false,
+    "hasCertificate": true,
+    "rating": 4.8,
+    "description": "Learn iOS app development with Swift and Xcode from zero to hero.",
+    "skills": [
+      "iOS",
+      "Swift",
+      "Xcode",
+      "App Development"
+    ],
+    "tags": [
+      "ios",
+      "swift",
+      "mobile",
+      "apple"
+    ],
+    "affiliate": "https://www.udemy.com/course/ios-13-app-development-bootcamp/",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-18"
+  },
+  {
+    "id": 2118,
+    "title": "Android Java Masterclass",
+    "provider": "Udemy",
+    "instructor": "Tim Buchalka",
+    "category": "mobile-dev",
+    "level": "beginner",
+    "language": "english",
+    "duration": 60,
+    "price": "Paid",
+    "isFree": false,
+    "hasCertificate": true,
+    "rating": 4.5,
+    "description": "Build Android apps with Java — complete masterclass from beginner to advanced.",
+    "skills": [
+      "Android",
+      "Java",
+      "Mobile Development",
+      "Gradle"
+    ],
+    "tags": [
+      "android",
+      "java",
+      "mobile"
+    ],
+    "affiliate": "https://www.udemy.com/course/master-android-7-app-development/",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-18"
+  },
+  {
+    "id": 2119,
+    "title": "React Native – The Practical Guide",
+    "provider": "Udemy",
+    "instructor": "Maximilian Schwarzmüller",
+    "category": "mobile-dev",
+    "level": "intermediate",
+    "language": "english",
+    "duration": 38,
+    "price": "Paid",
+    "isFree": false,
+    "hasCertificate": true,
+    "rating": 4.7,
+    "description": "Build cross-platform iOS and Android apps with React Native and React.",
+    "skills": [
+      "React Native",
+      "JavaScript",
+      "iOS",
+      "Android"
+    ],
+    "tags": [
+      "react native",
+      "mobile",
+      "javascript"
+    ],
+    "affiliate": "https://www.udemy.com/course/react-native-the-practical-guide/",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-18"
+  },
+  {
+    "id": 2120,
+    "title": "SwiftUI Masterclass Course",
+    "provider": "Udemy",
+    "instructor": "Robert Petras",
+    "category": "mobile-dev",
+    "level": "intermediate",
+    "language": "english",
+    "duration": 30,
+    "price": "Paid",
+    "isFree": false,
+    "hasCertificate": true,
+    "rating": 4.6,
+    "description": "Master SwiftUI for building modern iOS and macOS apps with declarative syntax.",
+    "skills": [
+      "SwiftUI",
+      "Swift",
+      "iOS",
+      "macOS",
+      "Apple"
+    ],
+    "tags": [
+      "swiftui",
+      "ios",
+      "apple",
+      "swift"
+    ],
+    "affiliate": "https://www.udemy.com/course/swiftui-masterclass-course/",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-18"
+  },
+  {
+    "id": 2121,
+    "title": "How to Create an Ecommerce Website",
+    "provider": "Udemy",
+    "instructor": "Brad Hussey",
+    "category": "ecommerce-marketing",
+    "level": "beginner",
+    "language": "english",
+    "duration": 6,
+    "price": "Paid",
+    "isFree": false,
+    "hasCertificate": true,
+    "rating": 4.4,
+    "description": "Build a complete ecommerce website from scratch using modern web technologies.",
+    "skills": [
+      "Ecommerce",
+      "Web Development",
+      "WooCommerce",
+      "WordPress"
+    ],
+    "tags": [
+      "ecommerce",
+      "website",
+      "wordpress"
+    ],
+    "affiliate": "https://www.udemy.com/course/how-to-create-an-ecommerce-website/",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-18"
+  },
+  {
+    "id": 2122,
+    "title": "Shopify Bootcamp: Build Your Store",
+    "provider": "Udemy",
+    "instructor": "Danielle & Brad Dalton",
+    "category": "ecommerce-marketing",
+    "level": "beginner",
+    "language": "english",
+    "duration": 8,
+    "price": "Paid",
+    "isFree": false,
+    "hasCertificate": true,
+    "rating": 4.5,
+    "description": "Launch a Shopify store from scratch — products, themes, payments, and marketing.",
+    "skills": [
+      "Shopify",
+      "Ecommerce",
+      "Dropshipping",
+      "Store Setup"
+    ],
+    "tags": [
+      "shopify",
+      "ecommerce",
+      "dropshipping"
+    ],
+    "affiliate": "https://www.udemy.com/course/shopify-bootcamp/",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-18"
+  },
+  {
+    "id": 2123,
+    "title": "E-Commerce Marketing Masterclass",
+    "provider": "Udemy",
+    "instructor": "Isaac Rudansky",
+    "category": "ecommerce-marketing",
+    "level": "intermediate",
+    "language": "english",
+    "duration": 12,
+    "price": "Paid",
+    "isFree": false,
+    "hasCertificate": true,
+    "rating": 4.5,
+    "description": "Drive traffic and sales to your ecommerce store with proven digital marketing strategies.",
+    "skills": [
+      "Ecommerce Marketing",
+      "Google Ads",
+      "Facebook Ads",
+      "Email Marketing"
+    ],
+    "tags": [
+      "ecommerce",
+      "marketing",
+      "ads"
+    ],
+    "affiliate": "https://www.udemy.com/course/e-commerce-marketing-masterclass/",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-18"
+  },
+  {
+    "id": 2124,
+    "title": "Introduction to E-Commerce",
+    "provider": "edX",
+    "instructor": "University Instructors",
+    "category": "ecommerce-marketing",
+    "level": "beginner",
+    "language": "english",
+    "duration": 5,
+    "price": "Free",
+    "isFree": true,
+    "hasCertificate": true,
+    "rating": 4.4,
+    "description": "Learn the fundamentals of e-commerce business models, strategy, and operations.",
+    "skills": [
+      "Ecommerce",
+      "Business Models",
+      "Online Retail"
+    ],
+    "tags": [
+      "ecommerce",
+      "business",
+      "edx"
+    ],
+    "affiliate": "https://www.edx.org/course/introduction-to-e-commerce",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-18"
+  },
+  {
+    "id": 2125,
+    "title": "The Complete Amazon FBA Course",
+    "provider": "Udemy",
+    "instructor": "Joshua Crisp",
+    "category": "ecommerce-marketing",
+    "level": "beginner",
+    "language": "english",
+    "duration": 10,
+    "price": "Paid",
+    "isFree": false,
+    "hasCertificate": true,
+    "rating": 4.5,
+    "description": "Launch and grow an Amazon FBA business from product research to scaled sales.",
+    "skills": [
+      "Amazon FBA",
+      "Product Research",
+      "Private Label",
+      "PPC"
+    ],
+    "tags": [
+      "amazon",
+      "fba",
+      "ecommerce"
+    ],
+    "affiliate": "https://www.udemy.com/course/amazon-fba/",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-18"
+  },
+  {
+    "id": 2126,
+    "title": "Complete C# Unity Game Developer 2D",
+    "provider": "Udemy",
+    "instructor": "GameDev.tv Team",
+    "category": "game-dev",
+    "level": "beginner",
+    "language": "english",
+    "duration": 25,
+    "price": "Paid",
+    "isFree": false,
+    "hasCertificate": true,
+    "rating": 4.7,
+    "description": "Learn Unity and C# by building 2D games from scratch — the most popular game dev course.",
+    "skills": [
+      "Unity",
+      "C#",
+      "2D Games",
+      "Game Design"
+    ],
+    "tags": [
+      "unity",
+      "c#",
+      "game development",
+      "2d"
+    ],
+    "affiliate": "https://www.udemy.com/course/unitycourse/",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-18"
+  },
+  {
+    "id": 2127,
+    "title": "Unreal Engine 5 C++ Developer",
+    "provider": "Udemy",
+    "instructor": "GameDev.tv Team",
+    "category": "game-dev",
+    "level": "intermediate",
+    "language": "english",
+    "duration": 60,
+    "price": "Paid",
+    "isFree": false,
+    "hasCertificate": true,
+    "rating": 4.7,
+    "description": "Build professional 3D games with Unreal Engine 5 and C++ from scratch.",
+    "skills": [
+      "Unreal Engine",
+      "C++",
+      "3D Games",
+      "Game Design"
+    ],
+    "tags": [
+      "unreal engine",
+      "c++",
+      "3d",
+      "game development"
+    ],
+    "affiliate": "https://www.udemy.com/course/unrealcourse/",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-18"
+  },
+  {
+    "id": 2128,
+    "title": "Godot Game Engine 4 – Complete Beginner",
+    "provider": "Udemy",
+    "instructor": "GDQuest",
+    "category": "game-dev",
+    "level": "beginner",
+    "language": "english",
+    "duration": 14,
+    "price": "Paid",
+    "isFree": false,
+    "hasCertificate": true,
+    "rating": 4.6,
+    "description": "Learn the free and open-source Godot 4 engine to build 2D and 3D games.",
+    "skills": [
+      "Godot",
+      "GDScript",
+      "2D Games",
+      "3D Games"
+    ],
+    "tags": [
+      "godot",
+      "game development",
+      "open source"
+    ],
+    "affiliate": "https://www.udemy.com/course/godot-game-engine-4-complete-beginner-course/",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-18"
+  },
+  {
+    "id": 2129,
+    "title": "Introduction to Game Development",
+    "provider": "edX",
+    "instructor": "Michigan State University",
+    "category": "game-dev",
+    "level": "beginner",
+    "language": "english",
+    "duration": 8,
+    "price": "Free",
+    "isFree": true,
+    "hasCertificate": true,
+    "rating": 4.5,
+    "description": "Learn game design and development fundamentals using Unity.",
+    "skills": [
+      "Game Design",
+      "Unity",
+      "C#",
+      "Game Development"
+    ],
+    "tags": [
+      "game dev",
+      "unity",
+      "edx"
+    ],
+    "affiliate": "https://www.edx.org/course/introduction-to-game-development",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-18"
+  },
+  {
+    "id": 2130,
+    "title": "RPG Core Combat Creator: Unity",
+    "provider": "Udemy",
+    "instructor": "GameDev.tv Team",
+    "category": "game-dev",
+    "level": "intermediate",
+    "language": "english",
+    "duration": 27,
+    "price": "Paid",
+    "isFree": false,
+    "hasCertificate": true,
+    "rating": 4.7,
+    "description": "Build an RPG game in Unity with combat, inventory, and dialogue systems.",
+    "skills": [
+      "Unity",
+      "C#",
+      "RPG",
+      "Game Design",
+      "Combat Systems"
+    ],
+    "tags": [
+      "unity",
+      "rpg",
+      "game development"
+    ],
+    "affiliate": "https://www.udemy.com/course/unityrpg/",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-18"
+  },
+  {
+    "id": 2131,
+    "title": "Microsoft Power BI Desktop for Business Intelligence",
+    "provider": "Udemy",
+    "instructor": "Maven Analytics",
+    "category": "data-analytics",
+    "level": "beginner",
+    "language": "english",
+    "duration": 17,
+    "price": "Paid",
+    "isFree": false,
+    "hasCertificate": true,
+    "rating": 4.7,
+    "description": "Master Power BI to create interactive dashboards and business intelligence reports.",
+    "skills": [
+      "Power BI",
+      "DAX",
+      "Data Visualization",
+      "Business Intelligence"
+    ],
+    "tags": [
+      "power bi",
+      "business intelligence",
+      "data"
+    ],
+    "affiliate": "https://www.udemy.com/course/microsoft-power-bi-up-running-with-power-bi-desktop/",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-18"
+  },
+  {
+    "id": 2132,
+    "title": "Tableau A-Z: Hands-On Tableau Training",
+    "provider": "Udemy",
+    "instructor": "Kirill Eremenko",
+    "category": "data-analytics",
+    "level": "beginner",
+    "language": "english",
+    "duration": 9,
+    "price": "Paid",
+    "isFree": false,
+    "hasCertificate": true,
+    "rating": 4.6,
+    "description": "Learn Tableau from scratch to build powerful data visualizations and dashboards.",
+    "skills": [
+      "Tableau",
+      "Data Visualization",
+      "BI",
+      "Analytics"
+    ],
+    "tags": [
+      "tableau",
+      "data visualization",
+      "analytics"
+    ],
+    "affiliate": "https://www.udemy.com/course/tableau10/",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-18"
+  },
+  {
+    "id": 2133,
+    "title": "Business Intelligence Fundamentals",
+    "provider": "edX",
+    "instructor": "University Instructors",
+    "category": "data-analytics",
+    "level": "beginner",
+    "language": "english",
+    "duration": 6,
+    "price": "Free",
+    "isFree": true,
+    "hasCertificate": true,
+    "rating": 4.5,
+    "description": "Learn BI concepts, data warehousing, ETL, and reporting tools.",
+    "skills": [
+      "Business Intelligence",
+      "Data Warehouse",
+      "ETL",
+      "Reporting"
+    ],
+    "tags": [
+      "bi",
+      "data warehouse",
+      "edx"
+    ],
+    "affiliate": "https://www.edx.org/course/business-intelligence-fundamentals",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-18"
+  },
+  {
+    "id": 2134,
+    "title": "Advanced SQL for Business Intelligence",
+    "provider": "Udemy",
+    "instructor": "Maven Analytics",
+    "category": "data-analytics",
+    "level": "intermediate",
+    "language": "english",
+    "duration": 8,
+    "price": "Paid",
+    "isFree": false,
+    "hasCertificate": true,
+    "rating": 4.6,
+    "description": "Write advanced SQL queries for BI reporting, analytics, and data modeling.",
+    "skills": [
+      "SQL",
+      "Advanced SQL",
+      "BI",
+      "Analytics",
+      "Data Modeling"
+    ],
+    "tags": [
+      "sql",
+      "business intelligence",
+      "analytics"
+    ],
+    "affiliate": "https://www.udemy.com/course/advanced-sql-for-business-intelligence/",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-18"
+  },
+  {
+    "id": 2135,
+    "title": "Qlik Sense Training for Data Analytics",
+    "provider": "Udemy",
+    "instructor": "Abhishek Agarrwal",
+    "category": "data-analytics",
+    "level": "beginner",
+    "language": "english",
+    "duration": 7,
+    "price": "Paid",
+    "isFree": false,
+    "hasCertificate": true,
+    "rating": 4.4,
+    "description": "Learn Qlik Sense for self-service data analytics and interactive dashboards.",
+    "skills": [
+      "Qlik Sense",
+      "Data Analytics",
+      "BI",
+      "Dashboards"
+    ],
+    "tags": [
+      "qlik",
+      "analytics",
+      "dashboards"
+    ],
+    "affiliate": "https://www.udemy.com/course/qlik-sense-training/",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-18"
   }
 ]
