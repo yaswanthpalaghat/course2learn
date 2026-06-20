@@ -184,7 +184,10 @@
     "isFeatured": false,
     "isReal": true,
     "affiliate": "https://www.udemy.com/course/100-days-of-code/",
-    "updatedAt": "2024-06-01"
+    "updatedAt": "2024-06-01",
+    "categories": [
+      "nodejs"
+    ]
   },
   {
     "id": 1633,
@@ -258,7 +261,10 @@
     "isFeatured": false,
     "isReal": true,
     "affiliate": "https://www.udemy.com/course/the-complete-python-course/",
-    "updatedAt": "2024-06-01"
+    "updatedAt": "2024-06-01",
+    "categories": [
+      "database"
+    ]
   },
   {
     "id": 1635,
@@ -294,7 +300,10 @@
     "isFeatured": false,
     "isReal": true,
     "affiliate": "https://www.udemy.com/course/complete-python-developer-zero-to-mastery/",
-    "updatedAt": "2024-06-01"
+    "updatedAt": "2024-06-01",
+    "categories": [
+      "nodejs"
+    ]
   },
   {
     "id": 1636,
@@ -739,7 +748,12 @@
     "isFeatured": false,
     "isReal": true,
     "affiliate": "https://www.udemy.com/course/data-analysis-projects-using-sql-power-bi-tableau-excel/",
-    "updatedAt": "2024-06-01"
+    "updatedAt": "2024-06-01",
+    "categories": [
+      "database",
+      "tableau",
+      "power-bi"
+    ]
   },
   {
     "id": 1648,
@@ -779,7 +793,10 @@
     "isFeatured": false,
     "isReal": true,
     "affiliate": "https://www.udemy.com/course/data-analyst-all-in-1-python-chatgpt-excel-and-powerbi/",
-    "updatedAt": "2024-06-01"
+    "updatedAt": "2024-06-01",
+    "categories": [
+      "power-bi"
+    ]
   },
   {
     "id": 1649,
@@ -816,7 +833,10 @@
     "isFeatured": false,
     "isReal": true,
     "affiliate": "https://www.udemy.com/course/learn-power-bi-fundamentals/",
-    "updatedAt": "2024-06-01"
+    "updatedAt": "2024-06-01",
+    "categories": [
+      "data-analytics"
+    ]
   },
   {
     "id": 1650,
@@ -1226,7 +1246,10 @@
     "isFeatured": false,
     "isReal": true,
     "affiliate": "https://www.udemy.com/course/learn-ethical-hacking-from-scratch/",
-    "updatedAt": "2024-06-01"
+    "updatedAt": "2024-06-01",
+    "categories": [
+      "linux"
+    ]
   },
   {
     "id": 1661,
@@ -1263,7 +1286,10 @@
     "isFeatured": false,
     "isReal": true,
     "affiliate": "https://www.udemy.com/course/complete-ethical-hacking-bootcamp-zero-to-mastery/",
-    "updatedAt": "2024-06-01"
+    "updatedAt": "2024-06-01",
+    "categories": [
+      "linux"
+    ]
   },
   {
     "id": 1662,
@@ -1300,7 +1326,10 @@
     "isFeatured": false,
     "isReal": true,
     "affiliate": "https://www.udemy.com/course/new-the-complete-ethical-hacking-course-2024zero-to-hero/",
-    "updatedAt": "2024-06-01"
+    "updatedAt": "2024-06-01",
+    "categories": [
+      "linux"
+    ]
   },
   {
     "id": 2001,
@@ -1337,7 +1366,11 @@
     "affiliate": "https://www.edx.org/course/cs50s-introduction-to-computer-science",
     "isReal": true,
     "isFeatured": false,
-    "updatedAt": "2026-06-18"
+    "updatedAt": "2026-06-18",
+    "categories": [
+      "database",
+      "react"
+    ]
   },
   {
     "id": 2002,
@@ -1410,7 +1443,10 @@
     "affiliate": "https://www.freecodecamp.org/learn/responsive-web-design/",
     "isReal": true,
     "isFeatured": false,
-    "updatedAt": "2026-06-18"
+    "updatedAt": "2026-06-18",
+    "categories": [
+      "react"
+    ]
   },
   {
     "id": 2004,
@@ -1627,7 +1663,10 @@
     "affiliate": "https://www.edx.org/course/introduction-to-kubernetes",
     "isReal": true,
     "isFeatured": false,
-    "updatedAt": "2026-06-18"
+    "updatedAt": "2026-06-18",
+    "categories": [
+      "linux"
+    ]
   },
   {
     "id": 2010,
@@ -1736,7 +1775,10 @@
     "affiliate": "https://www.udacity.com/course/cloud-dev-ops-nanodegree--nd9991",
     "isReal": true,
     "isFeatured": false,
-    "updatedAt": "2026-06-18"
+    "updatedAt": "2026-06-18",
+    "categories": [
+      "nodejs"
+    ]
   },
   {
     "id": 2013,
@@ -2060,7 +2102,10 @@
     "affiliate": "https://www.udacity.com/course/digital-marketing-nanodegree--nd018",
     "isReal": true,
     "isFeatured": false,
-    "updatedAt": "2026-06-18"
+    "updatedAt": "2026-06-18",
+    "categories": [
+      "nodejs"
+    ]
   },
   {
     "id": 2022,
@@ -4886,7 +4931,10 @@
     "affiliate": "https://www.udemy.com/course/devops-beginners-guide/",
     "isReal": true,
     "isFeatured": false,
-    "updatedAt": "2026-06-18"
+    "updatedAt": "2026-06-18",
+    "categories": [
+      "linux"
+    ]
   },
   {
     "id": 2112,
@@ -5130,7 +5178,10 @@
     "affiliate": "https://www.udemy.com/course/react-native-the-practical-guide/",
     "isReal": true,
     "isFeatured": false,
-    "updatedAt": "2026-06-18"
+    "updatedAt": "2026-06-18",
+    "categories": [
+      "react"
+    ]
   },
   {
     "id": 2120,
@@ -5494,7 +5545,10 @@
     "affiliate": "https://www.udemy.com/course/microsoft-power-bi-up-running-with-power-bi-desktop/",
     "isReal": true,
     "isFeatured": false,
-    "updatedAt": "2026-06-18"
+    "updatedAt": "2026-06-18",
+    "categories": [
+      "power-bi"
+    ]
   },
   {
     "id": 2132,
@@ -5524,7 +5578,10 @@
     "affiliate": "https://www.udemy.com/course/tableau10/",
     "isReal": true,
     "isFeatured": false,
-    "updatedAt": "2026-06-18"
+    "updatedAt": "2026-06-18",
+    "categories": [
+      "tableau"
+    ]
   },
   {
     "id": 2133,
@@ -5585,7 +5642,10 @@
     "affiliate": "https://www.udemy.com/course/advanced-sql-for-business-intelligence/",
     "isReal": true,
     "isFeatured": false,
-    "updatedAt": "2026-06-18"
+    "updatedAt": "2026-06-18",
+    "categories": [
+      "database"
+    ]
   },
   {
     "id": 2135,
@@ -5616,5 +5676,3426 @@
     "isReal": true,
     "isFeatured": false,
     "updatedAt": "2026-06-18"
+  },
+  {
+    "id": 2136,
+    "title": "Claude 101",
+    "provider": "Anthropic",
+    "instructor": "Anthropic Team",
+    "category": "claude",
+    "categories": [
+      "claude",
+      "ai",
+      "prompt-engineering"
+    ],
+    "level": "beginner",
+    "language": "english",
+    "duration": 1,
+    "price": "Free",
+    "isFree": true,
+    "hasCertificate": true,
+    "rating": 4.8,
+    "description": "Introduction to Claude: what it is, how it works, and how to use it effectively for everyday tasks. Official course by Anthropic.",
+    "skills": [
+      "Claude",
+      "AI Literacy",
+      "Prompting",
+      "Generative AI"
+    ],
+    "tags": [
+      "claude",
+      "anthropic",
+      "ai",
+      "llm",
+      "beginner"
+    ],
+    "affiliate": "https://anthropic.skilljar.com/claude-101",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": 2137,
+    "title": "Claude Code 101",
+    "provider": "Anthropic",
+    "instructor": "Anthropic Team",
+    "category": "claude",
+    "categories": [
+      "claude",
+      "ai"
+    ],
+    "level": "beginner",
+    "language": "english",
+    "duration": 1,
+    "price": "Free",
+    "isFree": true,
+    "hasCertificate": true,
+    "rating": 4.8,
+    "description": "Learn Claude Code — Anthropic's agentic coding tool. Set it up, understand its capabilities, and start delegating coding tasks.",
+    "skills": [
+      "Claude Code",
+      "AI Coding",
+      "Developer Tools",
+      "CLI"
+    ],
+    "tags": [
+      "claude code",
+      "anthropic",
+      "coding",
+      "developer"
+    ],
+    "affiliate": "https://anthropic.skilljar.com/claude-code-101",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": 2138,
+    "title": "Claude Platform 101",
+    "provider": "Anthropic",
+    "instructor": "Anthropic Team",
+    "category": "claude",
+    "categories": [
+      "claude",
+      "ai",
+      "prompt-engineering"
+    ],
+    "level": "beginner",
+    "language": "english",
+    "duration": 1,
+    "price": "Free",
+    "isFree": true,
+    "hasCertificate": true,
+    "rating": 4.7,
+    "description": "Explore the Claude platform: Claude.ai features, Projects, Files, and how to integrate Claude into your workflow.",
+    "skills": [
+      "Claude",
+      "Platform",
+      "AI Tools",
+      "Productivity"
+    ],
+    "tags": [
+      "claude",
+      "anthropic",
+      "platform",
+      "workflow"
+    ],
+    "affiliate": "https://anthropic.skilljar.com/claude-platform-101",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": 2139,
+    "title": "Introduction to Claude Cowork",
+    "provider": "Anthropic",
+    "instructor": "Anthropic Team",
+    "category": "claude",
+    "categories": [
+      "claude",
+      "ai"
+    ],
+    "level": "beginner",
+    "language": "english",
+    "duration": 0.5,
+    "price": "Free",
+    "isFree": true,
+    "hasCertificate": true,
+    "rating": 4.7,
+    "description": "Get started with Claude Cowork — Anthropic's desktop tool for non-developers to automate file and task management.",
+    "skills": [
+      "Claude Cowork",
+      "Desktop Automation",
+      "Productivity",
+      "AI Tools"
+    ],
+    "tags": [
+      "cowork",
+      "anthropic",
+      "claude",
+      "automation"
+    ],
+    "affiliate": "https://anthropic.skilljar.com/introduction-to-claude-cowork",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": 2140,
+    "title": "Claude Code in Action",
+    "provider": "Anthropic",
+    "instructor": "Anthropic Team",
+    "category": "claude",
+    "categories": [
+      "claude",
+      "ai"
+    ],
+    "level": "intermediate",
+    "language": "english",
+    "duration": 2,
+    "price": "Free",
+    "isFree": true,
+    "hasCertificate": true,
+    "rating": 4.8,
+    "description": "Hands-on Claude Code: real-world coding tasks, agentic workflows, multi-step automation, and best practices.",
+    "skills": [
+      "Claude Code",
+      "Agentic AI",
+      "Developer Tools",
+      "Automation"
+    ],
+    "tags": [
+      "claude code",
+      "agentic",
+      "coding",
+      "anthropic"
+    ],
+    "affiliate": "https://anthropic.skilljar.com/claude-code-in-action",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": 2141,
+    "title": "AI Fluency: Framework & Foundations",
+    "provider": "Anthropic",
+    "instructor": "Anthropic Team",
+    "category": "claude",
+    "categories": [
+      "claude",
+      "ai",
+      "prompt-engineering"
+    ],
+    "level": "beginner",
+    "language": "english",
+    "duration": 2,
+    "price": "Free",
+    "isFree": true,
+    "hasCertificate": true,
+    "rating": 4.8,
+    "description": "Build foundational AI literacy: understand how LLMs work, what they're good at, their limitations, and how to use them responsibly.",
+    "skills": [
+      "AI Literacy",
+      "LLMs",
+      "Prompting",
+      "Responsible AI"
+    ],
+    "tags": [
+      "ai fluency",
+      "foundations",
+      "anthropic",
+      "llm",
+      "literacy"
+    ],
+    "affiliate": "https://anthropic.skilljar.com/ai-fluency-framework-foundations",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": 2142,
+    "title": "Building with the Claude API",
+    "provider": "Anthropic",
+    "instructor": "Anthropic Team",
+    "category": "claude",
+    "categories": [
+      "claude",
+      "ai"
+    ],
+    "level": "intermediate",
+    "language": "english",
+    "duration": 3,
+    "price": "Free",
+    "isFree": true,
+    "hasCertificate": true,
+    "rating": 4.9,
+    "description": "Developer course: integrate Claude into your applications using the Anthropic API. Covers authentication, messages API, tool use, and streaming.",
+    "skills": [
+      "Anthropic API",
+      "Claude API",
+      "Python",
+      "Tool Use",
+      "Streaming"
+    ],
+    "tags": [
+      "api",
+      "anthropic",
+      "developer",
+      "claude",
+      "python"
+    ],
+    "affiliate": "https://anthropic.skilljar.com/claude-with-the-anthropic-api",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": 2143,
+    "title": "Introduction to Model Context Protocol",
+    "provider": "Anthropic",
+    "instructor": "Anthropic Team",
+    "category": "claude",
+    "categories": [
+      "claude",
+      "ai"
+    ],
+    "level": "beginner",
+    "language": "english",
+    "duration": 2,
+    "price": "Free",
+    "isFree": true,
+    "hasCertificate": true,
+    "rating": 4.8,
+    "description": "Learn Model Context Protocol (MCP) — the open standard that lets AI models connect to external tools and data sources.",
+    "skills": [
+      "MCP",
+      "Model Context Protocol",
+      "AI Integration",
+      "Tool Use"
+    ],
+    "tags": [
+      "mcp",
+      "model context protocol",
+      "anthropic",
+      "claude",
+      "integration"
+    ],
+    "affiliate": "https://anthropic.skilljar.com/introduction-to-model-context-protocol",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": 2144,
+    "title": "AI Fluency for Educators",
+    "provider": "Anthropic",
+    "instructor": "Anthropic Team",
+    "category": "claude",
+    "categories": [
+      "claude",
+      "ai",
+      "prompt-engineering"
+    ],
+    "level": "beginner",
+    "language": "english",
+    "duration": 1.5,
+    "price": "Free",
+    "isFree": true,
+    "hasCertificate": true,
+    "rating": 4.7,
+    "description": "For teachers and educators: how to use AI in the classroom responsibly, create lesson plans, and build student AI literacy.",
+    "skills": [
+      "AI in Education",
+      "Claude",
+      "Lesson Planning",
+      "Responsible AI"
+    ],
+    "tags": [
+      "educators",
+      "teaching",
+      "ai fluency",
+      "anthropic",
+      "classroom"
+    ],
+    "affiliate": "https://anthropic.skilljar.com/ai-fluency-for-educators",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": 2145,
+    "title": "AI Fluency for Students",
+    "provider": "Anthropic",
+    "instructor": "Anthropic Team",
+    "category": "claude",
+    "categories": [
+      "claude",
+      "ai",
+      "prompt-engineering"
+    ],
+    "level": "beginner",
+    "language": "english",
+    "duration": 1.5,
+    "price": "Free",
+    "isFree": true,
+    "hasCertificate": true,
+    "rating": 4.7,
+    "description": "Students: understand AI tools, use Claude for learning and research effectively, and develop critical thinking around AI.",
+    "skills": [
+      "AI Literacy",
+      "Research",
+      "Claude",
+      "Critical Thinking"
+    ],
+    "tags": [
+      "students",
+      "learning",
+      "ai fluency",
+      "anthropic"
+    ],
+    "affiliate": "https://anthropic.skilljar.com/ai-fluency-for-students",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": 2146,
+    "title": "Model Context Protocol: Advanced Topics",
+    "provider": "Anthropic",
+    "instructor": "Anthropic Team",
+    "category": "claude",
+    "categories": [
+      "claude",
+      "ai"
+    ],
+    "level": "advanced",
+    "language": "english",
+    "duration": 2,
+    "price": "Free",
+    "isFree": true,
+    "hasCertificate": true,
+    "rating": 4.8,
+    "description": "Advanced MCP: building custom MCP servers, security best practices, multi-tool orchestration, and production deployment.",
+    "skills": [
+      "MCP Advanced",
+      "Custom Servers",
+      "AI Orchestration",
+      "Security"
+    ],
+    "tags": [
+      "mcp",
+      "advanced",
+      "server",
+      "anthropic",
+      "claude"
+    ],
+    "affiliate": "https://anthropic.skilljar.com/model-context-protocol-advanced-topics",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": 2147,
+    "title": "Claude with Amazon Bedrock",
+    "provider": "Anthropic",
+    "instructor": "Anthropic Team",
+    "category": "claude",
+    "categories": [
+      "claude",
+      "ai",
+      "cloud-computing"
+    ],
+    "level": "intermediate",
+    "language": "english",
+    "duration": 2,
+    "price": "Free",
+    "isFree": true,
+    "hasCertificate": true,
+    "rating": 4.7,
+    "description": "Deploy and use Claude models through Amazon Bedrock. Covers API access, model selection, fine-tuning, and cost management.",
+    "skills": [
+      "Amazon Bedrock",
+      "AWS",
+      "Claude",
+      "Cloud AI",
+      "Deployment"
+    ],
+    "tags": [
+      "bedrock",
+      "aws",
+      "anthropic",
+      "claude",
+      "cloud"
+    ],
+    "affiliate": "https://anthropic.skilljar.com/claude-in-amazon-bedrock",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": 2148,
+    "title": "Claude with Google Cloud Vertex AI",
+    "provider": "Anthropic",
+    "instructor": "Anthropic Team",
+    "category": "claude",
+    "categories": [
+      "claude",
+      "ai",
+      "cloud-computing"
+    ],
+    "level": "intermediate",
+    "language": "english",
+    "duration": 2,
+    "price": "Free",
+    "isFree": true,
+    "hasCertificate": true,
+    "rating": 4.7,
+    "description": "Access Claude via Google Cloud's Vertex AI. Covers setup, prompt tuning, API calls, and enterprise deployment patterns.",
+    "skills": [
+      "Google Cloud",
+      "Vertex AI",
+      "Claude",
+      "Cloud AI",
+      "GCP"
+    ],
+    "tags": [
+      "vertex ai",
+      "google cloud",
+      "anthropic",
+      "claude",
+      "gcp"
+    ],
+    "affiliate": "https://anthropic.skilljar.com/claude-with-google-vertex",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": 2149,
+    "title": "Teaching AI Fluency",
+    "provider": "Anthropic",
+    "instructor": "Anthropic Team",
+    "category": "claude",
+    "categories": [
+      "claude",
+      "ai",
+      "prompt-engineering"
+    ],
+    "level": "beginner",
+    "language": "english",
+    "duration": 1,
+    "price": "Free",
+    "isFree": true,
+    "hasCertificate": true,
+    "rating": 4.7,
+    "description": "A guide for trainers and instructors to teach AI fluency concepts, workshop design, and facilitation strategies.",
+    "skills": [
+      "Training",
+      "AI Literacy",
+      "Facilitation",
+      "Workshop Design"
+    ],
+    "tags": [
+      "teaching",
+      "ai fluency",
+      "trainers",
+      "anthropic"
+    ],
+    "affiliate": "https://anthropic.skilljar.com/teaching-ai-fluency",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": 2150,
+    "title": "AI Fluency for Nonprofits",
+    "provider": "Anthropic",
+    "instructor": "Anthropic Team",
+    "category": "claude",
+    "categories": [
+      "claude",
+      "ai"
+    ],
+    "level": "beginner",
+    "language": "english",
+    "duration": 1.5,
+    "price": "Free",
+    "isFree": true,
+    "hasCertificate": true,
+    "rating": 4.7,
+    "description": "Nonprofit teams: use Claude to amplify your mission, automate repetitive tasks, write grant proposals, and communicate impact.",
+    "skills": [
+      "Claude",
+      "AI for Nonprofits",
+      "Grant Writing",
+      "Automation"
+    ],
+    "tags": [
+      "nonprofit",
+      "ngo",
+      "ai fluency",
+      "anthropic",
+      "claude"
+    ],
+    "affiliate": "https://anthropic.skilljar.com/ai-fluency-for-nonprofits",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": 2151,
+    "title": "Introduction to Agent Skills",
+    "provider": "Anthropic",
+    "instructor": "Anthropic Team",
+    "category": "claude",
+    "categories": [
+      "claude",
+      "ai"
+    ],
+    "level": "beginner",
+    "language": "english",
+    "duration": 1,
+    "price": "Free",
+    "isFree": true,
+    "hasCertificate": true,
+    "rating": 4.8,
+    "description": "Understand Claude agent skills — reusable capabilities that extend what Claude can do in Cowork and Claude Code environments.",
+    "skills": [
+      "Agent Skills",
+      "Claude",
+      "Cowork",
+      "Automation"
+    ],
+    "tags": [
+      "agent skills",
+      "claude",
+      "anthropic",
+      "cowork"
+    ],
+    "affiliate": "https://anthropic.skilljar.com/introduction-to-agent-skills",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": 2152,
+    "title": "Introduction to Subagents",
+    "provider": "Anthropic",
+    "instructor": "Anthropic Team",
+    "category": "claude",
+    "categories": [
+      "claude",
+      "ai"
+    ],
+    "level": "intermediate",
+    "language": "english",
+    "duration": 1,
+    "price": "Free",
+    "isFree": true,
+    "hasCertificate": true,
+    "rating": 4.8,
+    "description": "Learn how Claude subagents work: spawning child agents, parallel execution, delegation patterns, and multi-agent workflows.",
+    "skills": [
+      "Subagents",
+      "Multi-Agent",
+      "Claude",
+      "AI Orchestration"
+    ],
+    "tags": [
+      "subagents",
+      "multi-agent",
+      "claude",
+      "anthropic"
+    ],
+    "affiliate": "https://anthropic.skilljar.com/introduction-to-subagents",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": 2153,
+    "title": "AI Capabilities and Limitations",
+    "provider": "Anthropic",
+    "instructor": "Anthropic Team",
+    "category": "claude",
+    "categories": [
+      "claude",
+      "ai",
+      "prompt-engineering"
+    ],
+    "level": "beginner",
+    "language": "english",
+    "duration": 1.5,
+    "price": "Free",
+    "isFree": true,
+    "hasCertificate": true,
+    "rating": 4.8,
+    "description": "Understand what AI can and cannot do: hallucinations, knowledge cutoffs, bias, reasoning limits, and responsible deployment.",
+    "skills": [
+      "AI Literacy",
+      "Critical Thinking",
+      "Responsible AI",
+      "Hallucinations"
+    ],
+    "tags": [
+      "ai limitations",
+      "responsible ai",
+      "anthropic",
+      "literacy"
+    ],
+    "affiliate": "https://anthropic.skilljar.com/ai-capabilities-and-limitations",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": 2154,
+    "title": "AI Fluency for Small Businesses",
+    "provider": "Anthropic",
+    "instructor": "Anthropic Team",
+    "category": "claude",
+    "categories": [
+      "claude",
+      "ai"
+    ],
+    "level": "beginner",
+    "language": "english",
+    "duration": 1.5,
+    "price": "Free",
+    "isFree": true,
+    "hasCertificate": true,
+    "rating": 4.8,
+    "description": "Small business owners: leverage Claude and AI tools to save time, improve customer service, create content, and grow faster.",
+    "skills": [
+      "Claude",
+      "AI for Business",
+      "Content Creation",
+      "Automation"
+    ],
+    "tags": [
+      "small business",
+      "ai fluency",
+      "anthropic",
+      "claude"
+    ],
+    "affiliate": "https://anthropic.skilljar.com/ai-fluency-for-small-businesses",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": 2155,
+    "title": "The Complete Affiliate Marketing Course",
+    "provider": "Udemy",
+    "instructor": "Evan Weber",
+    "category": "affiliate-marketing",
+    "categories": [
+      "affiliate-marketing",
+      "digital-marketing"
+    ],
+    "level": "beginner",
+    "language": "english",
+    "duration": 8,
+    "price": "Paid",
+    "isFree": false,
+    "hasCertificate": true,
+    "rating": 4.5,
+    "description": "Master affiliate marketing from scratch: choose a niche, build an audience, drive traffic, and earn passive income.",
+    "skills": [
+      "Affiliate Marketing",
+      "Niche Selection",
+      "Traffic Generation",
+      "Passive Income"
+    ],
+    "tags": [
+      "affiliate",
+      "passive income",
+      "marketing",
+      "commission"
+    ],
+    "affiliate": "https://www.udemy.com/course/affiliate-marketing-strategy/",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": 2156,
+    "title": "ClickBank Success: Affiliate Marketing Without a Website",
+    "provider": "Udemy",
+    "instructor": "KC Tan",
+    "category": "affiliate-marketing",
+    "categories": [
+      "affiliate-marketing",
+      "digital-marketing"
+    ],
+    "level": "beginner",
+    "language": "english",
+    "duration": 10,
+    "price": "Paid",
+    "isFree": false,
+    "hasCertificate": true,
+    "rating": 4.4,
+    "description": "Promote ClickBank products and earn commissions without building a website. Learn free and paid traffic strategies.",
+    "skills": [
+      "ClickBank",
+      "Affiliate Marketing",
+      "Traffic",
+      "Email Marketing"
+    ],
+    "tags": [
+      "clickbank",
+      "affiliate",
+      "no website",
+      "commission"
+    ],
+    "affiliate": "https://www.udemy.com/course/clickbank-affiliate-marketing/",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": 2157,
+    "title": "Amazon Affiliate Marketing for Beginners",
+    "provider": "Udemy",
+    "instructor": "Alex Genadinik",
+    "category": "affiliate-marketing",
+    "categories": [
+      "affiliate-marketing",
+      "digital-marketing"
+    ],
+    "level": "beginner",
+    "language": "english",
+    "duration": 5,
+    "price": "Paid",
+    "isFree": false,
+    "hasCertificate": true,
+    "rating": 4.3,
+    "description": "Set up an Amazon Associates account, build a niche site, get traffic, and earn commissions from Amazon products.",
+    "skills": [
+      "Amazon Associates",
+      "Niche Websites",
+      "SEO",
+      "Affiliate Marketing"
+    ],
+    "tags": [
+      "amazon",
+      "associates",
+      "affiliate",
+      "niche site"
+    ],
+    "affiliate": "https://www.udemy.com/course/amazon-affiliate/",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": 2158,
+    "title": "Affiliate Marketing Mastery",
+    "provider": "Udemy",
+    "instructor": "Stefan James",
+    "category": "affiliate-marketing",
+    "categories": [
+      "affiliate-marketing",
+      "digital-marketing",
+      "content-marketing"
+    ],
+    "level": "intermediate",
+    "language": "english",
+    "duration": 12,
+    "price": "Paid",
+    "isFree": false,
+    "hasCertificate": true,
+    "rating": 4.6,
+    "description": "Build a full-time income with affiliate marketing: authority blogs, email lists, product reviews, and scaling strategies.",
+    "skills": [
+      "Authority Blogging",
+      "Email List Building",
+      "Affiliate Marketing",
+      "Content Strategy"
+    ],
+    "tags": [
+      "affiliate mastery",
+      "blogging",
+      "authority",
+      "passive income"
+    ],
+    "affiliate": "https://www.udemy.com/course/affiliate-marketing-2021/",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": 2159,
+    "title": "CPA Marketing: The Fastest Way to Make Money Online",
+    "provider": "Udemy",
+    "instructor": "Benny Glam",
+    "category": "affiliate-marketing",
+    "categories": [
+      "affiliate-marketing",
+      "digital-marketing"
+    ],
+    "level": "beginner",
+    "language": "english",
+    "duration": 6,
+    "price": "Paid",
+    "isFree": false,
+    "hasCertificate": true,
+    "rating": 4.2,
+    "description": "Cost-per-action (CPA) marketing: find offers, drive targeted traffic, and earn commissions without selling products.",
+    "skills": [
+      "CPA Marketing",
+      "Paid Traffic",
+      "Affiliate Marketing",
+      "Conversion"
+    ],
+    "tags": [
+      "cpa",
+      "cost per action",
+      "affiliate",
+      "traffic"
+    ],
+    "affiliate": "https://www.udemy.com/course/cpa-marketing/",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": 2160,
+    "title": "YouTube Masterclass: Your Complete Guide to YouTube",
+    "provider": "Udemy",
+    "instructor": "Phil Ebiner",
+    "category": "youtube-marketing",
+    "categories": [
+      "youtube-marketing",
+      "digital-marketing",
+      "content-creation"
+    ],
+    "level": "beginner",
+    "language": "english",
+    "duration": 14,
+    "price": "Paid",
+    "isFree": false,
+    "hasCertificate": true,
+    "rating": 4.6,
+    "description": "Everything you need to grow a YouTube channel: setup, video production, SEO, thumbnails, monetization, and audience growth.",
+    "skills": [
+      "YouTube SEO",
+      "Video Production",
+      "Thumbnails",
+      "Monetization",
+      "Channel Growth"
+    ],
+    "tags": [
+      "youtube",
+      "channel growth",
+      "monetization",
+      "video"
+    ],
+    "affiliate": "https://www.udemy.com/course/youtube-masterclass/",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": 2161,
+    "title": "YouTube SEO: How to Rank Your Videos #1 on YouTube",
+    "provider": "Udemy",
+    "instructor": "Bryan Guerra",
+    "category": "youtube-marketing",
+    "categories": [
+      "youtube-marketing",
+      "seo",
+      "digital-marketing"
+    ],
+    "level": "beginner",
+    "language": "english",
+    "duration": 4,
+    "price": "Paid",
+    "isFree": false,
+    "hasCertificate": true,
+    "rating": 4.4,
+    "description": "YouTube SEO tactics: keyword research, tags, titles, descriptions, CTR optimization, and watch time strategies.",
+    "skills": [
+      "YouTube SEO",
+      "Keyword Research",
+      "CTR Optimization",
+      "Video Ranking"
+    ],
+    "tags": [
+      "youtube seo",
+      "video ranking",
+      "keywords",
+      "optimization"
+    ],
+    "affiliate": "https://www.udemy.com/course/youtube-seo-rank-videos/",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": 2162,
+    "title": "YouTube Academy – Complete YouTube Video Marketing",
+    "provider": "Udemy",
+    "instructor": "Daragh Walsh",
+    "category": "youtube-marketing",
+    "categories": [
+      "youtube-marketing",
+      "digital-marketing",
+      "content-creation"
+    ],
+    "level": "intermediate",
+    "language": "english",
+    "duration": 9,
+    "price": "Paid",
+    "isFree": false,
+    "hasCertificate": true,
+    "rating": 4.5,
+    "description": "Build a profitable YouTube channel from zero. Video strategy, scripting, editing, thumbnails, and monetization with AdSense.",
+    "skills": [
+      "YouTube Marketing",
+      "Video Strategy",
+      "AdSense",
+      "Script Writing"
+    ],
+    "tags": [
+      "youtube",
+      "channel strategy",
+      "adsense",
+      "video marketing"
+    ],
+    "affiliate": "https://www.udemy.com/course/youtube-marketing/",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": 2163,
+    "title": "YouTube Channel Art Design & Branding",
+    "provider": "Udemy",
+    "instructor": "Scott Paton",
+    "category": "youtube-marketing",
+    "categories": [
+      "youtube-marketing",
+      "canva",
+      "graphic-design"
+    ],
+    "level": "beginner",
+    "language": "english",
+    "duration": 3,
+    "price": "Paid",
+    "isFree": false,
+    "hasCertificate": true,
+    "rating": 4.2,
+    "description": "Design a professional YouTube channel banner, logo, and consistent brand identity using Canva and free tools.",
+    "skills": [
+      "YouTube Branding",
+      "Channel Art",
+      "Logo Design",
+      "Canva"
+    ],
+    "tags": [
+      "youtube branding",
+      "channel art",
+      "thumbnails",
+      "design"
+    ],
+    "affiliate": "https://www.udemy.com/course/youtube-channel-art/",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": 2164,
+    "title": "Video Marketing Strategy: YouTube & Social Media",
+    "provider": "LinkedIn Learning",
+    "instructor": "Dayna Rothman",
+    "category": "youtube-marketing",
+    "categories": [
+      "youtube-marketing",
+      "social-media",
+      "digital-marketing"
+    ],
+    "level": "intermediate",
+    "language": "english",
+    "duration": 2,
+    "price": "Paid",
+    "isFree": false,
+    "hasCertificate": true,
+    "rating": 4.5,
+    "description": "Develop a video content strategy across YouTube and social media. Distribution, analytics, and storytelling for brands.",
+    "skills": [
+      "Video Strategy",
+      "Social Video",
+      "Content Distribution",
+      "Analytics"
+    ],
+    "tags": [
+      "video marketing",
+      "strategy",
+      "youtube",
+      "social media"
+    ],
+    "affiliate": "https://www.linkedin.com/learning/video-marketing-strategy",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": 2165,
+    "title": "Graphic Design Masterclass – Learn GREAT Design",
+    "provider": "Udemy",
+    "instructor": "Lindsay Marsh",
+    "category": "graphic-design",
+    "categories": [
+      "graphic-design",
+      "design"
+    ],
+    "level": "beginner",
+    "language": "english",
+    "duration": 20,
+    "price": "Paid",
+    "isFree": false,
+    "hasCertificate": true,
+    "rating": 4.7,
+    "description": "Master graphic design principles: typography, color theory, layout, branding, and professional portfolio building.",
+    "skills": [
+      "Graphic Design",
+      "Typography",
+      "Color Theory",
+      "Branding",
+      "Layout"
+    ],
+    "tags": [
+      "graphic design",
+      "typography",
+      "branding",
+      "design principles"
+    ],
+    "affiliate": "https://www.udemy.com/course/graphic-design-masterclass-everything-you-need-to-know/",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": 2166,
+    "title": "Adobe Illustrator CC – Essentials Training",
+    "provider": "Udemy",
+    "instructor": "Daniel Scott",
+    "category": "graphic-design",
+    "categories": [
+      "graphic-design",
+      "design"
+    ],
+    "level": "beginner",
+    "language": "english",
+    "duration": 12,
+    "price": "Paid",
+    "isFree": false,
+    "hasCertificate": true,
+    "rating": 4.8,
+    "description": "Learn Adobe Illustrator from scratch: vector art, logo design, icons, typography, and professional illustration.",
+    "skills": [
+      "Adobe Illustrator",
+      "Vector Design",
+      "Logo Design",
+      "Typography"
+    ],
+    "tags": [
+      "illustrator",
+      "adobe",
+      "vector",
+      "logo design"
+    ],
+    "affiliate": "https://www.udemy.com/course/adobe-illustrator-course/",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": 2167,
+    "title": "Introduction to Graphic Design",
+    "provider": "Coursera",
+    "instructor": "CalArts Faculty",
+    "category": "graphic-design",
+    "categories": [
+      "graphic-design",
+      "design"
+    ],
+    "level": "beginner",
+    "language": "english",
+    "duration": 15,
+    "price": "Free",
+    "isFree": true,
+    "hasCertificate": true,
+    "rating": 4.6,
+    "description": "Offered by California Institute of Arts. Explore graphic design history, principles, tools, and build your first portfolio.",
+    "skills": [
+      "Graphic Design",
+      "Design History",
+      "Visual Communication",
+      "Portfolio"
+    ],
+    "tags": [
+      "graphic design",
+      "calarts",
+      "coursera",
+      "beginner"
+    ],
+    "affiliate": "https://www.coursera.org/specializations/graphic-design",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": 2168,
+    "title": "Logo Design Mastery in Adobe Illustrator",
+    "provider": "Udemy",
+    "instructor": "Mohamed Sharaki",
+    "category": "graphic-design",
+    "categories": [
+      "graphic-design",
+      "design"
+    ],
+    "level": "intermediate",
+    "language": "english",
+    "duration": 7,
+    "price": "Paid",
+    "isFree": false,
+    "hasCertificate": true,
+    "rating": 4.7,
+    "description": "Design professional logos in Adobe Illustrator: grids, geometry, wordmarks, lettermarks, and presenting logo concepts.",
+    "skills": [
+      "Logo Design",
+      "Adobe Illustrator",
+      "Branding",
+      "Typography"
+    ],
+    "tags": [
+      "logo design",
+      "illustrator",
+      "branding",
+      "identity"
+    ],
+    "affiliate": "https://www.udemy.com/course/logo-design-mastery-in-adobe-illustrator/",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": 2169,
+    "title": "CorelDRAW: Graphic Design for Beginners",
+    "provider": "Udemy",
+    "instructor": "Joe Parys",
+    "category": "graphic-design",
+    "categories": [
+      "graphic-design",
+      "design"
+    ],
+    "level": "beginner",
+    "language": "english",
+    "duration": 5,
+    "price": "Paid",
+    "isFree": false,
+    "hasCertificate": true,
+    "rating": 4.3,
+    "description": "Learn CorelDRAW for graphic design: create logos, posters, flyers, and business cards from scratch.",
+    "skills": [
+      "CorelDRAW",
+      "Graphic Design",
+      "Vector Art",
+      "Print Design"
+    ],
+    "tags": [
+      "coreldraw",
+      "graphic design",
+      "vector",
+      "print"
+    ],
+    "affiliate": "https://www.udemy.com/course/coreldraw-graphic-design/",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": 2170,
+    "title": "Adobe Photoshop CC – Essentials Training Course",
+    "provider": "Udemy",
+    "instructor": "Daniel Scott",
+    "category": "photo-editing",
+    "categories": [
+      "photo-editing",
+      "design"
+    ],
+    "level": "beginner",
+    "language": "english",
+    "duration": 15,
+    "price": "Paid",
+    "isFree": false,
+    "hasCertificate": true,
+    "rating": 4.8,
+    "description": "Learn Adobe Photoshop from zero: photo retouching, compositing, color correction, and graphic design fundamentals.",
+    "skills": [
+      "Adobe Photoshop",
+      "Photo Retouching",
+      "Color Correction",
+      "Compositing"
+    ],
+    "tags": [
+      "photoshop",
+      "adobe",
+      "photo editing",
+      "retouching"
+    ],
+    "affiliate": "https://www.udemy.com/course/adobe-photoshop-cc-essentials-training-course/",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": 2171,
+    "title": "Lightroom Classic CC: The Complete Mastery Course",
+    "provider": "Udemy",
+    "instructor": "Phil Ebiner",
+    "category": "photo-editing",
+    "categories": [
+      "photo-editing",
+      "design"
+    ],
+    "level": "beginner",
+    "language": "english",
+    "duration": 11,
+    "price": "Paid",
+    "isFree": false,
+    "hasCertificate": true,
+    "rating": 4.7,
+    "description": "Master Adobe Lightroom: import, organize, edit, and export stunning photos. Color grading, presets, and batch editing.",
+    "skills": [
+      "Adobe Lightroom",
+      "Color Grading",
+      "Photo Editing",
+      "Presets"
+    ],
+    "tags": [
+      "lightroom",
+      "adobe",
+      "photo editing",
+      "color grading"
+    ],
+    "affiliate": "https://www.udemy.com/course/lightroom-complete-guide/",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": 2172,
+    "title": "Complete Photo Editing: Photoshop & Lightroom",
+    "provider": "Udemy",
+    "instructor": "Cristian Doru Barin",
+    "category": "photo-editing",
+    "categories": [
+      "photo-editing",
+      "design"
+    ],
+    "level": "intermediate",
+    "language": "english",
+    "duration": 13,
+    "price": "Paid",
+    "isFree": false,
+    "hasCertificate": true,
+    "rating": 4.6,
+    "description": "End-to-end photo editing workflow in Photoshop and Lightroom: portraits, landscapes, product photos, and social media.",
+    "skills": [
+      "Photoshop",
+      "Lightroom",
+      "Retouching",
+      "Compositing",
+      "Workflow"
+    ],
+    "tags": [
+      "photo editing",
+      "photoshop",
+      "lightroom",
+      "workflow"
+    ],
+    "affiliate": "https://www.udemy.com/course/complete-photo-editing-photoshop-lightroom/",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": 2173,
+    "title": "Product Photography: Take Pro Photos With Your Phone",
+    "provider": "Udemy",
+    "instructor": "Tomas George",
+    "category": "photo-editing",
+    "categories": [
+      "photo-editing"
+    ],
+    "level": "beginner",
+    "language": "english",
+    "duration": 4,
+    "price": "Paid",
+    "isFree": false,
+    "hasCertificate": true,
+    "rating": 4.5,
+    "description": "Shoot and edit professional product photos with just your smartphone. Lighting setups, backgrounds, and Lightroom editing.",
+    "skills": [
+      "Product Photography",
+      "Smartphone Photography",
+      "Lightroom Mobile",
+      "Lighting"
+    ],
+    "tags": [
+      "product photography",
+      "smartphone",
+      "editing",
+      "ecommerce"
+    ],
+    "affiliate": "https://www.udemy.com/course/product-photography/",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": 2174,
+    "title": "Portrait Photography & Retouching in Photoshop",
+    "provider": "Udemy",
+    "instructor": "Andrei Oprinca",
+    "category": "photo-editing",
+    "categories": [
+      "photo-editing"
+    ],
+    "level": "intermediate",
+    "language": "english",
+    "duration": 8,
+    "price": "Paid",
+    "isFree": false,
+    "hasCertificate": true,
+    "rating": 4.6,
+    "description": "Advanced Photoshop retouching: skin smoothing, dodge & burn, frequency separation, and color grading portraits.",
+    "skills": [
+      "Portrait Retouching",
+      "Photoshop",
+      "Frequency Separation",
+      "Color Grading"
+    ],
+    "tags": [
+      "portrait",
+      "retouching",
+      "photoshop",
+      "skin"
+    ],
+    "affiliate": "https://www.udemy.com/course/portrait-retouching-photoshop/",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": 2175,
+    "title": "Canva for Beginners: Create Stunning Designs",
+    "provider": "Udemy",
+    "instructor": "Anca State",
+    "category": "canva",
+    "categories": [
+      "canva",
+      "graphic-design",
+      "design"
+    ],
+    "level": "beginner",
+    "language": "english",
+    "duration": 4,
+    "price": "Paid",
+    "isFree": false,
+    "hasCertificate": true,
+    "rating": 4.5,
+    "description": "Learn Canva from scratch: social media posts, presentations, logos, flyers, and branded templates for businesses.",
+    "skills": [
+      "Canva",
+      "Graphic Design",
+      "Social Media Design",
+      "Branding"
+    ],
+    "tags": [
+      "canva",
+      "design",
+      "social media",
+      "templates"
+    ],
+    "affiliate": "https://www.udemy.com/course/canva-for-beginners/",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": 2176,
+    "title": "Canva Masterclass: Graphic Design for Non-Designers",
+    "provider": "Udemy",
+    "instructor": "Brad Hussey",
+    "category": "canva",
+    "categories": [
+      "canva",
+      "graphic-design"
+    ],
+    "level": "beginner",
+    "language": "english",
+    "duration": 6,
+    "price": "Paid",
+    "isFree": false,
+    "hasCertificate": true,
+    "rating": 4.6,
+    "description": "Design like a pro without design skills. Master Canva: brand kits, animations, video design, and professional presentations.",
+    "skills": [
+      "Canva",
+      "Brand Kit",
+      "Animations",
+      "Presentations",
+      "Video Design"
+    ],
+    "tags": [
+      "canva",
+      "non-designer",
+      "brand kit",
+      "animations"
+    ],
+    "affiliate": "https://www.udemy.com/course/canva-graphic-design/",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": 2177,
+    "title": "Canva for Social Media Marketing",
+    "provider": "Udemy",
+    "instructor": "Daragh Walsh",
+    "category": "canva",
+    "categories": [
+      "canva",
+      "social-media",
+      "digital-marketing"
+    ],
+    "level": "beginner",
+    "language": "english",
+    "duration": 3,
+    "price": "Paid",
+    "isFree": false,
+    "hasCertificate": true,
+    "rating": 4.4,
+    "description": "Create eye-catching social media content in Canva: Instagram posts, Stories, LinkedIn banners, YouTube thumbnails and more.",
+    "skills": [
+      "Canva",
+      "Social Media Graphics",
+      "Instagram Design",
+      "Content Creation"
+    ],
+    "tags": [
+      "canva",
+      "social media",
+      "instagram",
+      "content creation"
+    ],
+    "affiliate": "https://www.udemy.com/course/canva-for-social-media/",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": 2178,
+    "title": "Canva Pro: Advanced Design Techniques",
+    "provider": "Udemy",
+    "instructor": "Rachael Jones",
+    "category": "canva",
+    "categories": [
+      "canva",
+      "graphic-design"
+    ],
+    "level": "intermediate",
+    "language": "english",
+    "duration": 5,
+    "price": "Paid",
+    "isFree": false,
+    "hasCertificate": true,
+    "rating": 4.5,
+    "description": "Advanced Canva Pro: Magic Resize, transparent backgrounds, Brand Hub, team collaboration, and Canva AI features.",
+    "skills": [
+      "Canva Pro",
+      "Brand Hub",
+      "Magic Resize",
+      "Team Collaboration"
+    ],
+    "tags": [
+      "canva pro",
+      "advanced",
+      "brand hub",
+      "ai features"
+    ],
+    "affiliate": "https://www.udemy.com/course/canva-pro-advanced/",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": 2179,
+    "title": "Canva Design: Create YouTube Thumbnails That Get Clicks",
+    "provider": "Udemy",
+    "instructor": "Kevin McMahon",
+    "category": "canva",
+    "categories": [
+      "canva",
+      "youtube-marketing"
+    ],
+    "level": "beginner",
+    "language": "english",
+    "duration": 2,
+    "price": "Paid",
+    "isFree": false,
+    "hasCertificate": true,
+    "rating": 4.4,
+    "description": "Design high-CTR YouTube thumbnails in Canva: psychology of clicks, text overlays, color contrast, and A/B testing.",
+    "skills": [
+      "YouTube Thumbnails",
+      "Canva",
+      "CTR Optimization",
+      "Design"
+    ],
+    "tags": [
+      "youtube thumbnails",
+      "canva",
+      "ctr",
+      "design"
+    ],
+    "affiliate": "https://www.udemy.com/course/youtube-thumbnails-canva/",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": 2180,
+    "title": "After Effects CC: The Complete Motion Graphics Course",
+    "provider": "Udemy",
+    "instructor": "Jacob Ennis",
+    "category": "motion-graphics",
+    "categories": [
+      "motion-graphics",
+      "video-editing",
+      "design"
+    ],
+    "level": "beginner",
+    "language": "english",
+    "duration": 22,
+    "price": "Paid",
+    "isFree": false,
+    "hasCertificate": true,
+    "rating": 4.7,
+    "description": "Master Adobe After Effects: animations, motion typography, visual effects, compositing, and creating professional reels.",
+    "skills": [
+      "Adobe After Effects",
+      "Motion Graphics",
+      "Animations",
+      "VFX"
+    ],
+    "tags": [
+      "after effects",
+      "motion graphics",
+      "animation",
+      "vfx"
+    ],
+    "affiliate": "https://www.udemy.com/course/motion-graphics-after-effects/",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": 2181,
+    "title": "Learn Logo Animation in After Effects",
+    "provider": "Udemy",
+    "instructor": "Tomas George",
+    "category": "motion-graphics",
+    "categories": [
+      "motion-graphics",
+      "graphic-design"
+    ],
+    "level": "beginner",
+    "language": "english",
+    "duration": 5,
+    "price": "Paid",
+    "isFree": false,
+    "hasCertificate": true,
+    "rating": 4.5,
+    "description": "Animate logos, lower thirds, and title cards in After Effects. Create stunning intros for YouTube and broadcast.",
+    "skills": [
+      "Logo Animation",
+      "After Effects",
+      "Lower Thirds",
+      "Intros"
+    ],
+    "tags": [
+      "logo animation",
+      "after effects",
+      "intros",
+      "youtube"
+    ],
+    "affiliate": "https://www.udemy.com/course/logo-animation-after-effects/",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": 2182,
+    "title": "CSS Animations and Transitions for the Modern Web",
+    "provider": "Udemy",
+    "instructor": "Colt Steele",
+    "category": "motion-graphics",
+    "categories": [
+      "motion-graphics",
+      "react",
+      "javascript"
+    ],
+    "level": "intermediate",
+    "language": "english",
+    "duration": 6,
+    "price": "Paid",
+    "isFree": false,
+    "hasCertificate": true,
+    "rating": 4.7,
+    "description": "Master CSS animations, transitions, keyframes, and web motion design. Build interactive, animated web interfaces.",
+    "skills": [
+      "CSS Animations",
+      "Transitions",
+      "Keyframes",
+      "Web Animation"
+    ],
+    "tags": [
+      "css animation",
+      "web design",
+      "motion",
+      "frontend"
+    ],
+    "affiliate": "https://www.udemy.com/course/css-animation-transitions/",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": 2183,
+    "title": "Adobe Premiere Pro & After Effects: Video Editing + Motion",
+    "provider": "Udemy",
+    "instructor": "Phil Ebiner",
+    "category": "motion-graphics",
+    "categories": [
+      "motion-graphics",
+      "video-editing"
+    ],
+    "level": "intermediate",
+    "language": "english",
+    "duration": 18,
+    "price": "Paid",
+    "isFree": false,
+    "hasCertificate": true,
+    "rating": 4.6,
+    "description": "Edit videos in Premiere Pro and add motion graphics in After Effects. Color grading, audio mixing, and delivery.",
+    "skills": [
+      "Premiere Pro",
+      "After Effects",
+      "Color Grading",
+      "Audio Mixing"
+    ],
+    "tags": [
+      "premiere pro",
+      "after effects",
+      "video editing",
+      "motion"
+    ],
+    "affiliate": "https://www.udemy.com/course/premiere-pro-after-effects/",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": 2184,
+    "title": "Motion Design School: Animation Principles",
+    "provider": "Skillshare",
+    "instructor": "Motion Design School",
+    "category": "motion-graphics",
+    "categories": [
+      "motion-graphics"
+    ],
+    "level": "intermediate",
+    "language": "english",
+    "duration": 8,
+    "price": "Paid",
+    "isFree": false,
+    "hasCertificate": false,
+    "rating": 4.8,
+    "description": "The 12 principles of animation applied to motion graphics: squash & stretch, anticipation, arcs, timing, and staging.",
+    "skills": [
+      "Animation Principles",
+      "Motion Design",
+      "After Effects",
+      "Timing"
+    ],
+    "tags": [
+      "animation principles",
+      "motion design",
+      "12 principles"
+    ],
+    "affiliate": "https://www.skillshare.com/classes/motion-design-school",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": 2185,
+    "title": "Sales Training: Practical Sales Techniques",
+    "provider": "Udemy",
+    "instructor": "Chris Croft",
+    "category": "sales",
+    "categories": [
+      "sales",
+      "business"
+    ],
+    "level": "beginner",
+    "language": "english",
+    "duration": 5,
+    "price": "Paid",
+    "isFree": false,
+    "hasCertificate": true,
+    "rating": 4.5,
+    "description": "Practical, actionable sales techniques: prospecting, objection handling, closing, negotiation, and building long-term relationships.",
+    "skills": [
+      "Sales Techniques",
+      "Objection Handling",
+      "Closing Deals",
+      "Negotiation"
+    ],
+    "tags": [
+      "sales",
+      "negotiation",
+      "closing",
+      "b2b"
+    ],
+    "affiliate": "https://www.udemy.com/course/sales-training-practical-sales-techniques/",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": 2186,
+    "title": "The Art of Sales: Mastering the Selling Process",
+    "provider": "Coursera",
+    "instructor": "Northwestern University",
+    "category": "sales",
+    "categories": [
+      "sales",
+      "business"
+    ],
+    "level": "beginner",
+    "language": "english",
+    "duration": 20,
+    "price": "Free",
+    "isFree": true,
+    "hasCertificate": true,
+    "rating": 4.7,
+    "description": "A Coursera Specialization by Northwestern. Learn the full sales cycle: prospecting, pitching, negotiating, and closing.",
+    "skills": [
+      "Sales Process",
+      "Prospecting",
+      "Negotiation",
+      "Closing",
+      "CRM"
+    ],
+    "tags": [
+      "sales",
+      "northwestern",
+      "coursera",
+      "b2b",
+      "crm"
+    ],
+    "affiliate": "https://www.coursera.org/specializations/art-of-sales",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": 2187,
+    "title": "HubSpot Sales Software Certification",
+    "provider": "HubSpot Academy",
+    "instructor": "HubSpot Team",
+    "category": "sales",
+    "categories": [
+      "sales",
+      "digital-marketing"
+    ],
+    "level": "beginner",
+    "language": "english",
+    "duration": 3,
+    "price": "Free",
+    "isFree": true,
+    "hasCertificate": true,
+    "rating": 4.6,
+    "description": "Free HubSpot certification: master HubSpot CRM, manage deals, automate follow-ups, and analyze your sales pipeline.",
+    "skills": [
+      "HubSpot CRM",
+      "Deal Management",
+      "Sales Automation",
+      "Pipeline"
+    ],
+    "tags": [
+      "hubspot",
+      "crm",
+      "sales software",
+      "certification"
+    ],
+    "affiliate": "https://academy.hubspot.com/courses/hubspot-sales-software",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": 2188,
+    "title": "Cold Email Mastery",
+    "provider": "Udemy",
+    "instructor": "Alex Berman",
+    "category": "sales",
+    "categories": [
+      "sales",
+      "email-marketing"
+    ],
+    "level": "intermediate",
+    "language": "english",
+    "duration": 4,
+    "price": "Paid",
+    "isFree": false,
+    "hasCertificate": true,
+    "rating": 4.4,
+    "description": "Write cold emails that get replies: subject lines, personalization, follow-up sequences, and booking meetings at scale.",
+    "skills": [
+      "Cold Email",
+      "Outreach",
+      "B2B Sales",
+      "Lead Generation"
+    ],
+    "tags": [
+      "cold email",
+      "outreach",
+      "b2b",
+      "lead generation"
+    ],
+    "affiliate": "https://www.udemy.com/course/cold-email-mastery/",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": 2189,
+    "title": "Salesforce CRM for Beginners",
+    "provider": "Udemy",
+    "instructor": "Mike Wheeler",
+    "category": "sales",
+    "categories": [
+      "sales",
+      "business"
+    ],
+    "level": "beginner",
+    "language": "english",
+    "duration": 6,
+    "price": "Paid",
+    "isFree": false,
+    "hasCertificate": true,
+    "rating": 4.4,
+    "description": "Learn Salesforce CRM from zero: leads, contacts, accounts, opportunities, dashboards, and reports for sales teams.",
+    "skills": [
+      "Salesforce",
+      "CRM",
+      "Lead Management",
+      "Sales Reports"
+    ],
+    "tags": [
+      "salesforce",
+      "crm",
+      "leads",
+      "reports"
+    ],
+    "affiliate": "https://www.udemy.com/course/salesforce-crm-beginners/",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": 2190,
+    "title": "Freelancing: How to Build a Successful Freelance Business",
+    "provider": "Udemy",
+    "instructor": "Brad Merrill",
+    "category": "freelancing",
+    "categories": [
+      "freelancing",
+      "business"
+    ],
+    "level": "beginner",
+    "language": "english",
+    "duration": 6,
+    "price": "Paid",
+    "isFree": false,
+    "hasCertificate": true,
+    "rating": 4.5,
+    "description": "Build a freelance business from scratch: choose your niche, set rates, find clients, write proposals, and scale your income.",
+    "skills": [
+      "Freelancing",
+      "Client Acquisition",
+      "Proposal Writing",
+      "Pricing"
+    ],
+    "tags": [
+      "freelancing",
+      "fiverr",
+      "upwork",
+      "client acquisition"
+    ],
+    "affiliate": "https://www.udemy.com/course/freelancing-how-to-build-a-successful-freelance-business/",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": 2191,
+    "title": "Fiverr Freelancing: Sell Your Skills Online",
+    "provider": "Udemy",
+    "instructor": "Lucas Weaver",
+    "category": "freelancing",
+    "categories": [
+      "freelancing"
+    ],
+    "level": "beginner",
+    "language": "english",
+    "duration": 5,
+    "price": "Paid",
+    "isFree": false,
+    "hasCertificate": true,
+    "rating": 4.4,
+    "description": "Set up a Fiverr profile, create gigs, optimize for search, handle clients, and level up to Top Rated Seller.",
+    "skills": [
+      "Fiverr",
+      "Gig Creation",
+      "Client Management",
+      "Freelancing"
+    ],
+    "tags": [
+      "fiverr",
+      "gig economy",
+      "freelancing",
+      "online income"
+    ],
+    "affiliate": "https://www.udemy.com/course/fiverr-freelancing/",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": 2192,
+    "title": "Upwork Proposal Writing: How to Win Freelance Clients",
+    "provider": "Udemy",
+    "instructor": "Evan Kimbrell",
+    "category": "freelancing",
+    "categories": [
+      "freelancing"
+    ],
+    "level": "beginner",
+    "language": "english",
+    "duration": 4,
+    "price": "Paid",
+    "isFree": false,
+    "hasCertificate": true,
+    "rating": 4.4,
+    "description": "Write winning Upwork proposals: cover letters, portfolio setup, bidding strategy, and client communication to get hired.",
+    "skills": [
+      "Upwork",
+      "Proposal Writing",
+      "Freelancing",
+      "Client Communication"
+    ],
+    "tags": [
+      "upwork",
+      "proposals",
+      "freelancing",
+      "jobs"
+    ],
+    "affiliate": "https://www.udemy.com/course/upwork-proposal-writing/",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": 2193,
+    "title": "Freelance Like a Pro",
+    "provider": "LinkedIn Learning",
+    "instructor": "Kirsty Ferguson",
+    "category": "freelancing",
+    "categories": [
+      "freelancing",
+      "business"
+    ],
+    "level": "intermediate",
+    "language": "english",
+    "duration": 2,
+    "price": "Paid",
+    "isFree": false,
+    "hasCertificate": true,
+    "rating": 4.5,
+    "description": "Advanced freelancing: set boundaries, manage multiple clients, raise your rates, handle contracts, and prevent burnout.",
+    "skills": [
+      "Freelancing",
+      "Contracts",
+      "Rate Setting",
+      "Time Management"
+    ],
+    "tags": [
+      "freelancing",
+      "rates",
+      "contracts",
+      "boundaries"
+    ],
+    "affiliate": "https://www.linkedin.com/learning/freelancing-foundations",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": 2194,
+    "title": "Freelance Writing: Earn Money Writing Online",
+    "provider": "Udemy",
+    "instructor": "Iain Broome",
+    "category": "freelancing",
+    "categories": [
+      "freelancing",
+      "content-marketing",
+      "content-creation"
+    ],
+    "level": "beginner",
+    "language": "english",
+    "duration": 5,
+    "price": "Paid",
+    "isFree": false,
+    "hasCertificate": true,
+    "rating": 4.4,
+    "description": "Build a freelance writing career: find writing clients, craft pitches, set rates, and write content people will pay for.",
+    "skills": [
+      "Freelance Writing",
+      "Copywriting",
+      "Content Writing",
+      "Pitching"
+    ],
+    "tags": [
+      "freelance writing",
+      "copywriting",
+      "content",
+      "clients"
+    ],
+    "affiliate": "https://www.udemy.com/course/freelance-writing/",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": 2195,
+    "title": "Public Speaking for Beginners",
+    "provider": "Udemy",
+    "instructor": "TJ Walker",
+    "category": "public-speaking",
+    "categories": [
+      "public-speaking",
+      "communication"
+    ],
+    "level": "beginner",
+    "language": "english",
+    "duration": 4,
+    "price": "Paid",
+    "isFree": false,
+    "hasCertificate": true,
+    "rating": 4.5,
+    "description": "Overcome stage fright and speak with confidence. Storytelling, structure, body language, and handling Q&A sessions.",
+    "skills": [
+      "Public Speaking",
+      "Confidence",
+      "Storytelling",
+      "Body Language"
+    ],
+    "tags": [
+      "public speaking",
+      "confidence",
+      "presentation",
+      "stage fright"
+    ],
+    "affiliate": "https://www.udemy.com/course/public-speaking-for-beginners/",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": 2196,
+    "title": "Dynamic Public Speaking",
+    "provider": "Coursera",
+    "instructor": "University of Washington",
+    "category": "public-speaking",
+    "categories": [
+      "public-speaking",
+      "communication"
+    ],
+    "level": "beginner",
+    "language": "english",
+    "duration": 20,
+    "price": "Free",
+    "isFree": true,
+    "hasCertificate": true,
+    "rating": 4.7,
+    "description": "Coursera Specialization by University of Washington. Learn to speak clearly, persuasively, and memorably in any setting.",
+    "skills": [
+      "Public Speaking",
+      "Persuasion",
+      "Vocal Delivery",
+      "Presence"
+    ],
+    "tags": [
+      "public speaking",
+      "coursera",
+      "persuasion",
+      "delivery"
+    ],
+    "affiliate": "https://www.coursera.org/specializations/public-speaking",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": 2197,
+    "title": "Presentation Skills Masterclass",
+    "provider": "Udemy",
+    "instructor": "Mike Storkey",
+    "category": "public-speaking",
+    "categories": [
+      "public-speaking",
+      "communication"
+    ],
+    "level": "intermediate",
+    "language": "english",
+    "duration": 8,
+    "price": "Paid",
+    "isFree": false,
+    "hasCertificate": true,
+    "rating": 4.6,
+    "description": "Deliver powerful presentations in any setting: structure compelling stories, design great slides, and captivate any audience.",
+    "skills": [
+      "Presentations",
+      "Storytelling",
+      "Slide Design",
+      "Audience Engagement"
+    ],
+    "tags": [
+      "presentation",
+      "storytelling",
+      "slides",
+      "audience"
+    ],
+    "affiliate": "https://www.udemy.com/course/presentation-skills-masterclass/",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": 2198,
+    "title": "Public Speaking & Presentation Skills",
+    "provider": "LinkedIn Learning",
+    "instructor": "Laura Bergells",
+    "category": "public-speaking",
+    "categories": [
+      "public-speaking",
+      "communication"
+    ],
+    "level": "intermediate",
+    "language": "english",
+    "duration": 2,
+    "price": "Paid",
+    "isFree": false,
+    "hasCertificate": true,
+    "rating": 4.6,
+    "description": "LinkedIn Learning course: sharpen your public speaking for meetings, pitches, interviews, and virtual presentations.",
+    "skills": [
+      "Public Speaking",
+      "Virtual Presentations",
+      "Pitch Delivery",
+      "Clarity"
+    ],
+    "tags": [
+      "public speaking",
+      "linkedin",
+      "virtual",
+      "pitch"
+    ],
+    "affiliate": "https://www.linkedin.com/learning/public-speaking-foundations",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": 2199,
+    "title": "Storytelling for Leaders and Speakers",
+    "provider": "Udemy",
+    "instructor": "Akash Karia",
+    "category": "public-speaking",
+    "categories": [
+      "public-speaking",
+      "communication"
+    ],
+    "level": "intermediate",
+    "language": "english",
+    "duration": 3,
+    "price": "Paid",
+    "isFree": false,
+    "hasCertificate": true,
+    "rating": 4.7,
+    "description": "Craft compelling stories for speeches, pitches, TED-style talks, and business presentations that inspire action.",
+    "skills": [
+      "Storytelling",
+      "Leadership Communication",
+      "Public Speaking",
+      "Persuasion"
+    ],
+    "tags": [
+      "storytelling",
+      "leadership",
+      "public speaking",
+      "ted"
+    ],
+    "affiliate": "https://www.udemy.com/course/storytelling-speakers/",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": 2200,
+    "title": "Docker and Kubernetes: The Complete Guide",
+    "provider": "Udemy",
+    "instructor": "Stephen Grider",
+    "category": "docker",
+    "categories": [
+      "docker",
+      "devops",
+      "cloud-computing"
+    ],
+    "level": "intermediate",
+    "language": "english",
+    "duration": 22,
+    "price": "Paid",
+    "isFree": false,
+    "hasCertificate": true,
+    "rating": 4.7,
+    "description": "Master Docker containers and Kubernetes orchestration. CI/CD pipelines, multi-container apps, and production deployments.",
+    "skills": [
+      "Docker",
+      "Kubernetes",
+      "CI/CD",
+      "Containers",
+      "Microservices"
+    ],
+    "tags": [
+      "docker",
+      "kubernetes",
+      "devops",
+      "containers"
+    ],
+    "affiliate": "https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": 2201,
+    "title": "Docker for the Absolute Beginner – Hands-On",
+    "provider": "Udemy",
+    "instructor": "Mumshad Mannambeth",
+    "category": "docker",
+    "categories": [
+      "docker",
+      "devops"
+    ],
+    "level": "beginner",
+    "language": "english",
+    "duration": 7,
+    "price": "Paid",
+    "isFree": false,
+    "hasCertificate": true,
+    "rating": 4.7,
+    "description": "Hands-on Docker course: containers, images, Docker Compose, networking, volumes, and deploying apps in containers.",
+    "skills": [
+      "Docker",
+      "Containers",
+      "Docker Compose",
+      "Networking"
+    ],
+    "tags": [
+      "docker",
+      "beginner",
+      "hands-on",
+      "containers"
+    ],
+    "affiliate": "https://www.udemy.com/course/learn-docker/",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": 2202,
+    "title": "Kubernetes for Beginners – Docker Introduction",
+    "provider": "Udemy",
+    "instructor": "Mumshad Mannambeth",
+    "category": "docker",
+    "categories": [
+      "docker",
+      "devops",
+      "cloud-computing"
+    ],
+    "level": "beginner",
+    "language": "english",
+    "duration": 6,
+    "price": "Paid",
+    "isFree": false,
+    "hasCertificate": true,
+    "rating": 4.7,
+    "description": "Learn Kubernetes from scratch: pods, deployments, services, ConfigMaps, ingress, and Helm charts.",
+    "skills": [
+      "Kubernetes",
+      "Pods",
+      "Deployments",
+      "Services",
+      "Helm"
+    ],
+    "tags": [
+      "kubernetes",
+      "k8s",
+      "docker",
+      "devops"
+    ],
+    "affiliate": "https://www.udemy.com/course/learn-kubernetes/",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": 2203,
+    "title": "Docker – From Zero to Hero",
+    "provider": "freeCodeCamp",
+    "instructor": "Beau Carnes",
+    "category": "docker",
+    "categories": [
+      "docker",
+      "devops"
+    ],
+    "level": "beginner",
+    "language": "english",
+    "duration": 5,
+    "price": "Free",
+    "isFree": true,
+    "hasCertificate": false,
+    "rating": 4.6,
+    "description": "Free comprehensive Docker tutorial covering containers, images, volumes, networking, and Docker Compose from scratch.",
+    "skills": [
+      "Docker",
+      "Containers",
+      "Docker Compose",
+      "CLI"
+    ],
+    "tags": [
+      "docker",
+      "free",
+      "freecodecamp",
+      "beginner"
+    ],
+    "affiliate": "https://www.youtube.com/watch?v=fqMOX6JJhGo",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": 2204,
+    "title": "Content Marketing Certification",
+    "provider": "HubSpot Academy",
+    "instructor": "HubSpot Team",
+    "category": "content-marketing",
+    "categories": [
+      "content-marketing",
+      "digital-marketing",
+      "seo"
+    ],
+    "level": "beginner",
+    "language": "english",
+    "duration": 5,
+    "price": "Free",
+    "isFree": true,
+    "hasCertificate": true,
+    "rating": 4.7,
+    "description": "HubSpot's free certification: content strategy, SEO writing, blog promotion, content repurposing, and analytics.",
+    "skills": [
+      "Content Strategy",
+      "SEO Writing",
+      "Blog Promotion",
+      "Analytics"
+    ],
+    "tags": [
+      "content marketing",
+      "hubspot",
+      "certification",
+      "free"
+    ],
+    "affiliate": "https://academy.hubspot.com/courses/content-marketing",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": 2205,
+    "title": "Content Marketing Masterclass",
+    "provider": "Udemy",
+    "instructor": "Mark Timberlake",
+    "category": "content-marketing",
+    "categories": [
+      "content-marketing",
+      "digital-marketing",
+      "seo"
+    ],
+    "level": "intermediate",
+    "language": "english",
+    "duration": 12,
+    "price": "Paid",
+    "isFree": false,
+    "hasCertificate": true,
+    "rating": 4.4,
+    "description": "Full content marketing system: strategy, blogging, email, social media, video, podcasting, and measuring ROI.",
+    "skills": [
+      "Content Marketing",
+      "Blogging",
+      "Email Marketing",
+      "Video",
+      "Podcasting"
+    ],
+    "tags": [
+      "content marketing",
+      "strategy",
+      "blogging",
+      "roi"
+    ],
+    "affiliate": "https://www.udemy.com/course/content-marketing-masterclass/",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": 2206,
+    "title": "Content Strategy for Professionals",
+    "provider": "Coursera",
+    "instructor": "Northwestern University",
+    "category": "content-marketing",
+    "categories": [
+      "content-marketing",
+      "digital-marketing"
+    ],
+    "level": "intermediate",
+    "language": "english",
+    "duration": 20,
+    "price": "Free",
+    "isFree": true,
+    "hasCertificate": true,
+    "rating": 4.6,
+    "description": "Northwestern University Coursera Specialization: content strategy, storytelling, brand journalism, and analytics.",
+    "skills": [
+      "Content Strategy",
+      "Storytelling",
+      "Brand Journalism",
+      "Analytics"
+    ],
+    "tags": [
+      "content strategy",
+      "northwestern",
+      "coursera",
+      "brand"
+    ],
+    "affiliate": "https://www.coursera.org/specializations/content-strategy",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": 2207,
+    "title": "SEO Content Writing: How to Write Content That Ranks",
+    "provider": "Udemy",
+    "instructor": "Josh George",
+    "category": "content-marketing",
+    "categories": [
+      "content-marketing",
+      "seo",
+      "digital-marketing"
+    ],
+    "level": "beginner",
+    "language": "english",
+    "duration": 4,
+    "price": "Paid",
+    "isFree": false,
+    "hasCertificate": true,
+    "rating": 4.5,
+    "description": "Write blog posts that rank on page 1 of Google: keyword research, content structure, on-page SEO, and link-building.",
+    "skills": [
+      "SEO Writing",
+      "Keyword Research",
+      "Blog Writing",
+      "On-Page SEO"
+    ],
+    "tags": [
+      "seo writing",
+      "blog",
+      "content",
+      "ranking"
+    ],
+    "affiliate": "https://www.udemy.com/course/seo-content-writing/",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": 2208,
+    "title": "Email Marketing Certification",
+    "provider": "HubSpot Academy",
+    "instructor": "HubSpot Team",
+    "category": "email-marketing",
+    "categories": [
+      "email-marketing",
+      "digital-marketing"
+    ],
+    "level": "beginner",
+    "language": "english",
+    "duration": 4,
+    "price": "Free",
+    "isFree": true,
+    "hasCertificate": true,
+    "rating": 4.7,
+    "description": "Free HubSpot certification: list building, segmentation, automation workflows, deliverability, and A/B testing.",
+    "skills": [
+      "Email Marketing",
+      "List Building",
+      "Automation",
+      "A/B Testing",
+      "Deliverability"
+    ],
+    "tags": [
+      "email marketing",
+      "hubspot",
+      "certification",
+      "free"
+    ],
+    "affiliate": "https://academy.hubspot.com/courses/email-marketing",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": 2209,
+    "title": "Mailchimp Email Marketing Masterclass",
+    "provider": "Udemy",
+    "instructor": "Diego Davila",
+    "category": "email-marketing",
+    "categories": [
+      "email-marketing",
+      "digital-marketing"
+    ],
+    "level": "beginner",
+    "language": "english",
+    "duration": 7,
+    "price": "Paid",
+    "isFree": false,
+    "hasCertificate": true,
+    "rating": 4.4,
+    "description": "Master Mailchimp: build subscriber lists, design campaigns, automate sequences, and track email performance.",
+    "skills": [
+      "Mailchimp",
+      "Email Campaigns",
+      "Automation",
+      "Analytics"
+    ],
+    "tags": [
+      "mailchimp",
+      "email marketing",
+      "campaigns",
+      "automation"
+    ],
+    "affiliate": "https://www.udemy.com/course/mailchimp-email-marketing/",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": 2210,
+    "title": "Email Marketing Made Easy with Klaviyo",
+    "provider": "Udemy",
+    "instructor": "Gabriel St-Germain",
+    "category": "email-marketing",
+    "categories": [
+      "email-marketing",
+      "ecommerce-marketing",
+      "digital-marketing"
+    ],
+    "level": "intermediate",
+    "language": "english",
+    "duration": 5,
+    "price": "Paid",
+    "isFree": false,
+    "hasCertificate": true,
+    "rating": 4.5,
+    "description": "Use Klaviyo for e-commerce email marketing: abandoned cart flows, welcome series, post-purchase sequences, and segmentation.",
+    "skills": [
+      "Klaviyo",
+      "E-commerce Email",
+      "Automation Flows",
+      "Segmentation"
+    ],
+    "tags": [
+      "klaviyo",
+      "ecommerce",
+      "email marketing",
+      "flows"
+    ],
+    "affiliate": "https://www.udemy.com/course/klaviyo-email-marketing/",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": 2211,
+    "title": "Email Copywriting: Write Emails That Sell",
+    "provider": "Udemy",
+    "instructor": "Len Smith",
+    "category": "email-marketing",
+    "categories": [
+      "email-marketing",
+      "content-marketing"
+    ],
+    "level": "intermediate",
+    "language": "english",
+    "duration": 4,
+    "price": "Paid",
+    "isFree": false,
+    "hasCertificate": true,
+    "rating": 4.5,
+    "description": "Write persuasive email copy: subject lines, preheaders, storytelling, CTAs, and email sequences that drive conversions.",
+    "skills": [
+      "Email Copywriting",
+      "Subject Lines",
+      "Storytelling",
+      "Conversion"
+    ],
+    "tags": [
+      "email copywriting",
+      "persuasion",
+      "conversion",
+      "copy"
+    ],
+    "affiliate": "https://www.udemy.com/course/email-copywriting/",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": 2212,
+    "title": "Social Media Marketing Certification",
+    "provider": "HubSpot Academy",
+    "instructor": "HubSpot Team",
+    "category": "social-media",
+    "categories": [
+      "social-media",
+      "digital-marketing"
+    ],
+    "level": "beginner",
+    "language": "english",
+    "duration": 5,
+    "price": "Free",
+    "isFree": true,
+    "hasCertificate": true,
+    "rating": 4.6,
+    "description": "Free HubSpot certification: social strategy, content calendars, community management, and social media analytics.",
+    "skills": [
+      "Social Media Strategy",
+      "Content Calendar",
+      "Community Management",
+      "Analytics"
+    ],
+    "tags": [
+      "social media",
+      "hubspot",
+      "certification",
+      "strategy"
+    ],
+    "affiliate": "https://academy.hubspot.com/courses/social-media",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": 2213,
+    "title": "Social Media Marketing Masterclass",
+    "provider": "Udemy",
+    "instructor": "Brad Merrill",
+    "category": "social-media",
+    "categories": [
+      "social-media",
+      "digital-marketing",
+      "content-creation"
+    ],
+    "level": "beginner",
+    "language": "english",
+    "duration": 15,
+    "price": "Paid",
+    "isFree": false,
+    "hasCertificate": true,
+    "rating": 4.5,
+    "description": "Master social media marketing across Instagram, Facebook, Twitter, LinkedIn, TikTok, and YouTube for business growth.",
+    "skills": [
+      "Instagram",
+      "Facebook",
+      "LinkedIn",
+      "TikTok",
+      "Social Strategy"
+    ],
+    "tags": [
+      "social media",
+      "instagram",
+      "facebook",
+      "linkedin",
+      "tiktok"
+    ],
+    "affiliate": "https://www.udemy.com/course/social-media-marketing-masterclass/",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": 2214,
+    "title": "Instagram Marketing 2024: A Step-by-Step to 10,000 Followers",
+    "provider": "Udemy",
+    "instructor": "Benjamin Wilson",
+    "category": "social-media",
+    "categories": [
+      "social-media",
+      "digital-marketing",
+      "content-creation"
+    ],
+    "level": "beginner",
+    "language": "english",
+    "duration": 8,
+    "price": "Paid",
+    "isFree": false,
+    "hasCertificate": true,
+    "rating": 4.4,
+    "description": "Grow your Instagram organically: Reels strategy, hashtag research, story engagement, collaborations, and analytics.",
+    "skills": [
+      "Instagram Growth",
+      "Reels",
+      "Hashtags",
+      "Instagram Analytics"
+    ],
+    "tags": [
+      "instagram",
+      "reels",
+      "followers",
+      "growth"
+    ],
+    "affiliate": "https://www.udemy.com/course/instagram-marketing/",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": 2215,
+    "title": "LinkedIn Marketing: LinkedIn for Business Growth",
+    "provider": "Udemy",
+    "instructor": "Russ Knight",
+    "category": "social-media",
+    "categories": [
+      "social-media",
+      "digital-marketing",
+      "sales"
+    ],
+    "level": "intermediate",
+    "language": "english",
+    "duration": 6,
+    "price": "Paid",
+    "isFree": false,
+    "hasCertificate": true,
+    "rating": 4.5,
+    "description": "Leverage LinkedIn for B2B lead generation: profile optimization, content strategy, LinkedIn Ads, and Sales Navigator.",
+    "skills": [
+      "LinkedIn",
+      "B2B Lead Gen",
+      "Content Strategy",
+      "Sales Navigator"
+    ],
+    "tags": [
+      "linkedin",
+      "b2b",
+      "lead generation",
+      "sales"
+    ],
+    "affiliate": "https://www.udemy.com/course/linkedin-marketing-business/",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": 2216,
+    "title": "ChatGPT Prompt Engineering for Developers",
+    "provider": "DeepLearning.AI",
+    "instructor": "Andrew Ng & Isa Fulford",
+    "category": "prompt-engineering",
+    "categories": [
+      "prompt-engineering",
+      "ai",
+      "python"
+    ],
+    "level": "beginner",
+    "language": "english",
+    "duration": 2,
+    "price": "Free",
+    "isFree": true,
+    "hasCertificate": false,
+    "rating": 4.9,
+    "description": "Free course by Andrew Ng and OpenAI: best practices for prompting, iterative development, summarizing, inferring, and chaining.",
+    "skills": [
+      "Prompt Engineering",
+      "ChatGPT",
+      "OpenAI API",
+      "Python",
+      "Chaining"
+    ],
+    "tags": [
+      "prompt engineering",
+      "chatgpt",
+      "andrew ng",
+      "deeplearning.ai"
+    ],
+    "affiliate": "https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": 2217,
+    "title": "Prompt Engineering for ChatGPT",
+    "provider": "Coursera",
+    "instructor": "Vanderbilt University",
+    "category": "prompt-engineering",
+    "categories": [
+      "prompt-engineering",
+      "ai"
+    ],
+    "level": "beginner",
+    "language": "english",
+    "duration": 10,
+    "price": "Free",
+    "isFree": true,
+    "hasCertificate": true,
+    "rating": 4.8,
+    "description": "Vanderbilt University Coursera course: master prompt patterns, personas, few-shot examples, and chain-of-thought prompting.",
+    "skills": [
+      "Prompt Engineering",
+      "ChatGPT",
+      "Few-Shot Prompting",
+      "Chain of Thought"
+    ],
+    "tags": [
+      "prompt engineering",
+      "coursera",
+      "vanderbilt",
+      "chatgpt"
+    ],
+    "affiliate": "https://www.coursera.org/learn/prompt-engineering",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": 2218,
+    "title": "The Art of Prompt Engineering",
+    "provider": "Udemy",
+    "instructor": "Mohsen Hassan",
+    "category": "prompt-engineering",
+    "categories": [
+      "prompt-engineering",
+      "ai"
+    ],
+    "level": "intermediate",
+    "language": "english",
+    "duration": 8,
+    "price": "Paid",
+    "isFree": false,
+    "hasCertificate": true,
+    "rating": 4.5,
+    "description": "Advanced prompt engineering: zero-shot, few-shot, chain-of-thought, ReAct, retrieval-augmented generation, and fine-tuning.",
+    "skills": [
+      "Prompt Engineering",
+      "Zero-Shot",
+      "Few-Shot",
+      "RAG",
+      "Fine-Tuning"
+    ],
+    "tags": [
+      "prompt engineering",
+      "advanced",
+      "rag",
+      "few-shot"
+    ],
+    "affiliate": "https://www.udemy.com/course/prompt-engineering/",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": 2219,
+    "title": "Prompt Engineering Bootcamp",
+    "provider": "Udemy",
+    "instructor": "Nik Piepenbreier",
+    "category": "prompt-engineering",
+    "categories": [
+      "prompt-engineering",
+      "ai",
+      "claude"
+    ],
+    "level": "beginner",
+    "language": "english",
+    "duration": 6,
+    "price": "Paid",
+    "isFree": false,
+    "hasCertificate": true,
+    "rating": 4.6,
+    "description": "Write better AI prompts for ChatGPT, Claude, Gemini, and Midjourney. Templates, frameworks, and real-world use cases.",
+    "skills": [
+      "Prompt Engineering",
+      "ChatGPT",
+      "Claude",
+      "Gemini",
+      "Midjourney"
+    ],
+    "tags": [
+      "prompt engineering",
+      "chatgpt",
+      "claude",
+      "gemini",
+      "midjourney"
+    ],
+    "affiliate": "https://www.udemy.com/course/prompt-engineering-bootcamp/",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": 2220,
+    "title": "Advanced Prompt Engineering Techniques",
+    "provider": "LinkedIn Learning",
+    "instructor": "Ronnie Shasha",
+    "category": "prompt-engineering",
+    "categories": [
+      "prompt-engineering",
+      "ai"
+    ],
+    "level": "advanced",
+    "language": "english",
+    "duration": 2,
+    "price": "Paid",
+    "isFree": false,
+    "hasCertificate": true,
+    "rating": 4.5,
+    "description": "Advanced techniques: structured output, tree-of-thought, prompt injection defense, multi-step reasoning, and evaluation.",
+    "skills": [
+      "Advanced Prompting",
+      "Structured Output",
+      "Tree of Thought",
+      "Evaluation"
+    ],
+    "tags": [
+      "advanced prompting",
+      "tree of thought",
+      "structured output"
+    ],
+    "affiliate": "https://www.linkedin.com/learning/advanced-prompt-engineering-techniques",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": 2221,
+    "title": "Content Creation with AI: ChatGPT for Creators",
+    "provider": "Udemy",
+    "instructor": "Brian Covello",
+    "category": "content-creation",
+    "categories": [
+      "content-creation",
+      "ai",
+      "prompt-engineering"
+    ],
+    "level": "beginner",
+    "language": "english",
+    "duration": 5,
+    "price": "Paid",
+    "isFree": false,
+    "hasCertificate": true,
+    "rating": 4.5,
+    "description": "Use AI tools to supercharge your content creation: blog posts, social captions, video scripts, and email newsletters.",
+    "skills": [
+      "AI Content Creation",
+      "ChatGPT",
+      "Copywriting",
+      "Social Media"
+    ],
+    "tags": [
+      "content creation",
+      "ai",
+      "chatgpt",
+      "writing"
+    ],
+    "affiliate": "https://www.udemy.com/course/content-creation-chatgpt/",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": 2222,
+    "title": "Content Creation for Social Media",
+    "provider": "HubSpot Academy",
+    "instructor": "HubSpot Team",
+    "category": "content-creation",
+    "categories": [
+      "content-creation",
+      "social-media",
+      "digital-marketing"
+    ],
+    "level": "beginner",
+    "language": "english",
+    "duration": 3,
+    "price": "Free",
+    "isFree": true,
+    "hasCertificate": true,
+    "rating": 4.6,
+    "description": "Free HubSpot course: create engaging content for Instagram, LinkedIn, TikTok, and YouTube. Strategy and production.",
+    "skills": [
+      "Social Media Content",
+      "Instagram",
+      "TikTok",
+      "Content Strategy"
+    ],
+    "tags": [
+      "content creation",
+      "social media",
+      "instagram",
+      "tiktok"
+    ],
+    "affiliate": "https://academy.hubspot.com/courses/content-creation-social-media",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": 2223,
+    "title": "YouTube Content Creation Masterclass",
+    "provider": "Udemy",
+    "instructor": "Shelley Fishel",
+    "category": "content-creation",
+    "categories": [
+      "content-creation",
+      "youtube-marketing"
+    ],
+    "level": "beginner",
+    "language": "english",
+    "duration": 8,
+    "price": "Paid",
+    "isFree": false,
+    "hasCertificate": true,
+    "rating": 4.4,
+    "description": "Build and grow a YouTube channel: niche selection, scripting, recording, editing, thumbnails, and consistency strategies.",
+    "skills": [
+      "YouTube",
+      "Video Scripting",
+      "Video Editing",
+      "Thumbnail Design"
+    ],
+    "tags": [
+      "youtube",
+      "content creation",
+      "video",
+      "channel growth"
+    ],
+    "affiliate": "https://www.udemy.com/course/youtube-content-creation/",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": 2224,
+    "title": "Tableau 2024 A-Z: Hands-On Tableau Training for Data Science",
+    "provider": "Udemy",
+    "instructor": "Kirill Eremenko",
+    "category": "tableau",
+    "categories": [
+      "tableau",
+      "data-analytics",
+      "data-science"
+    ],
+    "level": "beginner",
+    "language": "english",
+    "duration": 9,
+    "price": "Paid",
+    "isFree": false,
+    "hasCertificate": true,
+    "rating": 4.7,
+    "description": "Most popular Tableau course: charts, maps, dashboards, LOD expressions, Tableau Prep, and Tableau Public.",
+    "skills": [
+      "Tableau",
+      "Data Visualization",
+      "LOD Expressions",
+      "Dashboards",
+      "Maps"
+    ],
+    "tags": [
+      "tableau",
+      "data visualization",
+      "kirill eremenko",
+      "supercharged"
+    ],
+    "affiliate": "https://www.udemy.com/course/tableau10/",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": 2225,
+    "title": "Data Visualization with Tableau",
+    "provider": "Coursera",
+    "instructor": "UC Davis",
+    "category": "tableau",
+    "categories": [
+      "tableau",
+      "data-analytics"
+    ],
+    "level": "beginner",
+    "language": "english",
+    "duration": 20,
+    "price": "Free",
+    "isFree": true,
+    "hasCertificate": true,
+    "rating": 4.6,
+    "description": "UC Davis Coursera Specialization: Tableau Desktop, Server, visual analytics, storytelling, and data design.",
+    "skills": [
+      "Tableau",
+      "Visual Analytics",
+      "Data Design",
+      "Storytelling"
+    ],
+    "tags": [
+      "tableau",
+      "coursera",
+      "uc davis",
+      "specialization"
+    ],
+    "affiliate": "https://www.coursera.org/specializations/data-visualization",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": 2226,
+    "title": "Tableau Desktop Specialist Certification Prep",
+    "provider": "Udemy",
+    "instructor": "Lukas Halim",
+    "category": "tableau",
+    "categories": [
+      "tableau",
+      "data-analytics"
+    ],
+    "level": "intermediate",
+    "language": "english",
+    "duration": 7,
+    "price": "Paid",
+    "isFree": false,
+    "hasCertificate": true,
+    "rating": 4.5,
+    "description": "Prepare for the Tableau Desktop Specialist exam: all question types, practice tests, and in-depth Tableau skills.",
+    "skills": [
+      "Tableau",
+      "Certification Prep",
+      "Desktop Specialist",
+      "Practice Tests"
+    ],
+    "tags": [
+      "tableau certification",
+      "desktop specialist",
+      "exam prep"
+    ],
+    "affiliate": "https://www.udemy.com/course/tableau-desktop-specialist/",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": 2227,
+    "title": "The Complete JavaScript Course: From Zero to Expert!",
+    "provider": "Udemy",
+    "instructor": "Jonas Schmedtmann",
+    "category": "javascript",
+    "categories": [
+      "javascript",
+      "react",
+      "programming"
+    ],
+    "level": "beginner",
+    "language": "english",
+    "duration": 69,
+    "price": "Paid",
+    "isFree": false,
+    "hasCertificate": true,
+    "rating": 4.8,
+    "description": "The most comprehensive JS course: ES6+, OOP, async JS, APIs, closures, prototypes, and a dozen real projects.",
+    "skills": [
+      "JavaScript",
+      "ES6+",
+      "Async JS",
+      "OOP",
+      "APIs",
+      "DOM"
+    ],
+    "tags": [
+      "javascript",
+      "jonas schmedtmann",
+      "complete course",
+      "es6"
+    ],
+    "affiliate": "https://www.udemy.com/course/the-complete-javascript-course/",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": 2228,
+    "title": "JavaScript Algorithms and Data Structures",
+    "provider": "freeCodeCamp",
+    "instructor": "freeCodeCamp",
+    "category": "javascript",
+    "categories": [
+      "javascript",
+      "programming"
+    ],
+    "level": "intermediate",
+    "language": "english",
+    "duration": 40,
+    "price": "Free",
+    "isFree": true,
+    "hasCertificate": true,
+    "rating": 4.7,
+    "description": "Free freeCodeCamp certification: JS fundamentals, ES6, regex, debugging, OOP, functional programming, and algorithms.",
+    "skills": [
+      "JavaScript",
+      "Algorithms",
+      "Data Structures",
+      "ES6",
+      "Functional Programming"
+    ],
+    "tags": [
+      "javascript",
+      "freecodecamp",
+      "algorithms",
+      "data structures"
+    ],
+    "affiliate": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": 2229,
+    "title": "JavaScript: Understanding the Weird Parts",
+    "provider": "Udemy",
+    "instructor": "Anthony Alicea",
+    "category": "javascript",
+    "categories": [
+      "javascript",
+      "programming"
+    ],
+    "level": "intermediate",
+    "language": "english",
+    "duration": 12,
+    "price": "Paid",
+    "isFree": false,
+    "hasCertificate": true,
+    "rating": 4.7,
+    "description": "Deep-dive JavaScript: execution context, closures, prototype chain, 'this', patterns, and building your own framework.",
+    "skills": [
+      "JavaScript Internals",
+      "Closures",
+      "Prototype Chain",
+      "Execution Context"
+    ],
+    "tags": [
+      "javascript",
+      "advanced",
+      "closures",
+      "prototype"
+    ],
+    "affiliate": "https://www.udemy.com/course/understand-javascript/",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": 2230,
+    "title": "Accounting & Bookkeeping Masterclass",
+    "provider": "Udemy",
+    "instructor": "Robert Steele",
+    "category": "accounting",
+    "categories": [
+      "accounting",
+      "finance"
+    ],
+    "level": "beginner",
+    "language": "english",
+    "duration": 20,
+    "price": "Paid",
+    "isFree": false,
+    "hasCertificate": true,
+    "rating": 4.6,
+    "description": "Complete accounting and bookkeeping: double-entry, journal entries, trial balance, financial statements, and QuickBooks.",
+    "skills": [
+      "Bookkeeping",
+      "Double-Entry",
+      "Financial Statements",
+      "QuickBooks"
+    ],
+    "tags": [
+      "accounting",
+      "bookkeeping",
+      "financial statements",
+      "quickbooks"
+    ],
+    "affiliate": "https://www.udemy.com/course/accounting-bookkeeping-masterclass/",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-19"
+  },
+  {
+    "id": 2231,
+    "title": "GST Filing and Tally Prime for India",
+    "provider": "Udemy",
+    "instructor": "CA Harish Wadhwa",
+    "category": "accounting",
+    "categories": [
+      "accounting",
+      "finance"
+    ],
+    "level": "beginner",
+    "language": "english",
+    "duration": 8,
+    "price": "Paid",
+    "isFree": false,
+    "hasCertificate": true,
+    "rating": 4.5,
+    "description": "Complete GST guide for India: registration, returns (GSTR-1, GSTR-3B), input tax credit, and Tally Prime accounting.",
+    "skills": [
+      "GST",
+      "Tally Prime",
+      "GSTR Filing",
+      "Input Tax Credit",
+      "Indian Taxation"
+    ],
+    "tags": [
+      "gst",
+      "tally prime",
+      "india",
+      "taxation",
+      "gstr"
+    ],
+    "affiliate": "https://www.udemy.com/course/gst-tally-prime-india/",
+    "isReal": true,
+    "isFeatured": false,
+    "updatedAt": "2026-06-19"
   }
 ]
