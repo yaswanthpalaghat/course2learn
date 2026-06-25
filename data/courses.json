@@ -11209,5 +11209,451 @@
     "affiliate": "https://www.udemy.com/course/agile-leadership-mastery/",
     "isReal": true,
     "updatedAt": "2026-06-25"
+  },
+  {
+    "id": 2285,
+    "isFeatured": false,
+    "title": "HubSpot AI SEO Masterclass",
+    "provider": "HubSpot Academy",
+    "instructor": "HubSpot Team",
+    "category": "ai-search-aeo-geo",
+    "categories": [
+      "ai-search-aeo-geo",
+      "seo",
+      "digital-marketing"
+    ],
+    "level": "beginner",
+    "language": "english",
+    "duration": 4,
+    "price": "Free",
+    "isFree": true,
+    "hasCertificate": true,
+    "rating": 4.7,
+    "students": 80000,
+    "description": "HubSpot's free AI SEO Masterclass covering how to adapt your SEO strategy for AI-powered search results, Google AI Overviews, ChatGPT search, and Perplexity. Learn to optimize content for both traditional and generative search engines.",
+    "skills": [
+      "AI SEO",
+      "Google AI Overviews",
+      "AEO",
+      "Content Optimization",
+      "Search Visibility",
+      "HubSpot"
+    ],
+    "tags": [
+      "ai seo",
+      "aeo",
+      "hubspot",
+      "google ai overviews",
+      "search optimization",
+      "free",
+      "generative search"
+    ],
+    "affiliate": "https://offers.hubspot.com/ai-seo-masterclass",
+    "isReal": true,
+    "updatedAt": "2026-06-25"
+  },
+  {
+    "id": 2286,
+    "isFeatured": false,
+    "title": "GEO & AEO Masterclass with Neil Patel",
+    "provider": "Economic Times Masterclass",
+    "instructor": "Neil Patel",
+    "category": "ai-search-aeo-geo",
+    "categories": [
+      "ai-search-aeo-geo",
+      "seo",
+      "digital-marketing"
+    ],
+    "level": "intermediate",
+    "language": "english",
+    "duration": 6,
+    "price": "Paid",
+    "isFree": false,
+    "hasCertificate": true,
+    "rating": 4.8,
+    "students": 25000,
+    "description": "Neil Patel's intensive masterclass on Generative Engine Optimization (GEO) and Answer Engine Optimization (AEO). Learn to appear in AI-generated answers, build topical authority, and future-proof your search strategy.",
+    "skills": [
+      "GEO",
+      "AEO",
+      "Topical Authority",
+      "AI Search",
+      "Brand Mentions",
+      "Structured Data"
+    ],
+    "tags": [
+      "geo",
+      "aeo",
+      "neil patel",
+      "generative engine optimization",
+      "answer engine optimization",
+      "ai search"
+    ],
+    "affiliate": "https://economictimes.indiatimes.com/masterclass/aeo-geo",
+    "isReal": true,
+    "updatedAt": "2026-06-25"
+  },
+  {
+    "id": 2287,
+    "isFeatured": false,
+    "title": "AEO Masterclass by Mostafa ElBermawy",
+    "provider": "Maven",
+    "instructor": "Mostafa ElBermawy",
+    "category": "ai-search-aeo-geo",
+    "categories": [
+      "ai-search-aeo-geo",
+      "seo"
+    ],
+    "level": "intermediate",
+    "language": "english",
+    "duration": 8,
+    "price": "Paid",
+    "isFree": false,
+    "hasCertificate": true,
+    "rating": 4.8,
+    "students": 5000,
+    "description": "Practitioner-level AEO course by Mostafa ElBermawy (NoGood). Covers how to get your brand cited by LLMs like ChatGPT, Claude, and Gemini through content signals, entity optimization, and PR strategies.",
+    "skills": [
+      "AEO",
+      "LLM Visibility",
+      "Entity Optimization",
+      "Brand Mentions",
+      "AI Citations",
+      "Content Strategy"
+    ],
+    "tags": [
+      "aeo",
+      "llm",
+      "brand citations",
+      "maven",
+      "mostafa elbermawy",
+      "nogood",
+      "ai search"
+    ],
+    "affiliate": "https://maven.com/nogood/aeo-masterclass",
+    "isReal": true,
+    "updatedAt": "2026-06-25"
+  },
+  {
+    "id": 2288,
+    "isFeatured": false,
+    "title": "Certified AEO Specialist (AEONITI)",
+    "provider": "NetworkersHome",
+    "instructor": "AEONITI Faculty",
+    "category": "ai-search-aeo-geo",
+    "categories": [
+      "ai-search-aeo-geo",
+      "seo"
+    ],
+    "level": "intermediate",
+    "language": "english",
+    "duration": 12,
+    "price": "Paid",
+    "isFree": false,
+    "hasCertificate": true,
+    "rating": 4.6,
+    "students": 3000,
+    "description": "Industry-recognized AEO certification covering answer engine optimization frameworks, featured snippets, knowledge panels, People Also Ask optimization, and voice search readiness.",
+    "skills": [
+      "AEO Certification",
+      "Featured Snippets",
+      "Knowledge Panels",
+      "PAA Optimization",
+      "Voice Search",
+      "Structured Data"
+    ],
+    "tags": [
+      "aeo certification",
+      "answer engine optimization",
+      "featured snippets",
+      "voice search",
+      "knowledge graph"
+    ],
+    "affiliate": "https://www.networkershome.com/aeo-certification/",
+    "isReal": true,
+    "updatedAt": "2026-06-25"
+  },
+  {
+    "id": 2289,
+    "isFeatured": false,
+    "title": "GEO Master Blueprint 2026",
+    "provider": "Udemy",
+    "instructor": "GEO Expert",
+    "category": "ai-search-aeo-geo",
+    "categories": [
+      "ai-search-aeo-geo",
+      "seo",
+      "digital-marketing"
+    ],
+    "level": "beginner",
+    "language": "english",
+    "duration": 7,
+    "price": "Paid",
+    "isFree": false,
+    "hasCertificate": true,
+    "rating": 4.5,
+    "students": 8000,
+    "description": "Step-by-step GEO (Generative Engine Optimization) blueprint for 2026. Learn to optimize content so it gets cited in ChatGPT, Perplexity, Google AI Overviews, and other AI-powered search tools.",
+    "skills": [
+      "GEO",
+      "ChatGPT Visibility",
+      "Perplexity Optimization",
+      "AI Overviews",
+      "Content Structuring",
+      "Zero-Click SEO"
+    ],
+    "tags": [
+      "geo",
+      "generative engine optimization",
+      "chatgpt",
+      "perplexity",
+      "ai overviews",
+      "udemy"
+    ],
+    "affiliate": "https://www.udemy.com/course/geo-master-blueprint/",
+    "isReal": true,
+    "updatedAt": "2026-06-25"
+  },
+  {
+    "id": 2290,
+    "isFeatured": false,
+    "title": "GEO: Get Cited by AI",
+    "provider": "FreeAcademy.ai",
+    "instructor": "FreeAcademy Team",
+    "category": "ai-search-aeo-geo",
+    "categories": [
+      "ai-search-aeo-geo",
+      "seo"
+    ],
+    "level": "beginner",
+    "language": "english",
+    "duration": 3,
+    "price": "Free",
+    "isFree": true,
+    "hasCertificate": true,
+    "rating": 4.6,
+    "students": 12000,
+    "description": "Free certificate course on GEO (Generative Engine Optimization). Learn the exact tactics to make your content discoverable and citable by AI tools like ChatGPT, Claude, Gemini, and Perplexity.",
+    "skills": [
+      "GEO",
+      "AI Citations",
+      "Content Optimization",
+      "ChatGPT SEO",
+      "Perplexity SEO",
+      "Gemini SEO"
+    ],
+    "tags": [
+      "geo",
+      "free course",
+      "ai citations",
+      "chatgpt seo",
+      "generative engine",
+      "certificate"
+    ],
+    "affiliate": "https://freeacademy.ai/course/geo-get-cited/",
+    "isReal": true,
+    "updatedAt": "2026-06-25"
+  },
+  {
+    "id": 2291,
+    "isFeatured": false,
+    "title": "AI-Powered Digital Marketing Certificate",
+    "provider": "Simplilearn",
+    "instructor": "Simplilearn Instructors",
+    "category": "ai-search-aeo-geo",
+    "categories": [
+      "ai-search-aeo-geo",
+      "digital-marketing",
+      "seo"
+    ],
+    "level": "intermediate",
+    "language": "english",
+    "duration": 180,
+    "price": "Paid",
+    "isFree": false,
+    "hasCertificate": true,
+    "rating": 4.5,
+    "students": 45000,
+    "description": "Comprehensive AI-powered digital marketing program covering AI SEO, AEO, GEO, AI content tools, predictive analytics, and building marketing strategies for the era of AI-driven search.",
+    "skills": [
+      "AI Marketing",
+      "AEO",
+      "GEO",
+      "AI SEO",
+      "Predictive Analytics",
+      "AI Content Tools",
+      "ChatGPT for Marketing"
+    ],
+    "tags": [
+      "ai marketing",
+      "digital marketing",
+      "aeo",
+      "geo",
+      "simplilearn",
+      "certificate",
+      "ai tools"
+    ],
+    "affiliate": "https://www.simplilearn.com/ai-digital-marketing-certification-training-course",
+    "isReal": true,
+    "updatedAt": "2026-06-25"
+  },
+  {
+    "id": 2292,
+    "isFeatured": false,
+    "title": "Mastering Generative Engine Optimization (GEO)",
+    "provider": "Tonex",
+    "instructor": "Tonex Faculty",
+    "category": "ai-search-aeo-geo",
+    "categories": [
+      "ai-search-aeo-geo",
+      "seo"
+    ],
+    "level": "advanced",
+    "language": "english",
+    "duration": 16,
+    "price": "Paid",
+    "isFree": false,
+    "hasCertificate": true,
+    "rating": 4.6,
+    "students": 2000,
+    "description": "Advanced GEO training for marketing and SEO professionals. Covers the technical and content-level strategies to optimize for large language model retrieval, including prompt alignment, structured content, and brand authority signals.",
+    "skills": [
+      "GEO Advanced",
+      "LLM Retrieval",
+      "Prompt Alignment",
+      "Structured Content",
+      "Brand Authority",
+      "AI Search Strategy"
+    ],
+    "tags": [
+      "geo",
+      "advanced",
+      "llm",
+      "brand authority",
+      "tonex",
+      "generative engine"
+    ],
+    "affiliate": "https://www.tonex.com/training-courses/mastering-generative-engine-optimization/",
+    "isReal": true,
+    "updatedAt": "2026-06-25"
+  },
+  {
+    "id": 2293,
+    "isFeatured": false,
+    "title": "GEO Free Course by GetCito",
+    "provider": "GetCito",
+    "instructor": "GetCito Team",
+    "category": "ai-search-aeo-geo",
+    "categories": [
+      "ai-search-aeo-geo",
+      "seo"
+    ],
+    "level": "beginner",
+    "language": "english",
+    "duration": 2,
+    "price": "Free",
+    "isFree": true,
+    "hasCertificate": true,
+    "rating": 4.5,
+    "students": 9000,
+    "description": "Free GEO course by GetCito covering the fundamentals of generative engine optimization. Learn how AI search tools select and cite sources, and what you can do to become a preferred reference for AI-generated answers.",
+    "skills": [
+      "GEO",
+      "AI Source Selection",
+      "Content Authority",
+      "AI Search Fundamentals",
+      "Citation Optimization"
+    ],
+    "tags": [
+      "geo",
+      "free",
+      "getcito",
+      "ai search",
+      "citation",
+      "certificate"
+    ],
+    "affiliate": "https://getcito.com/academy/geo-course/",
+    "isReal": true,
+    "updatedAt": "2026-06-25"
+  },
+  {
+    "id": 2294,
+    "isFeatured": false,
+    "title": "Introduction to Generative Engine Optimization",
+    "provider": "Open University (OpenLearn)",
+    "instructor": "Open University Faculty",
+    "category": "ai-search-aeo-geo",
+    "categories": [
+      "ai-search-aeo-geo",
+      "seo"
+    ],
+    "level": "beginner",
+    "language": "english",
+    "duration": 3,
+    "price": "Free",
+    "isFree": true,
+    "hasCertificate": false,
+    "rating": 4.4,
+    "students": 15000,
+    "description": "Open University's free introductory course on Generative Engine Optimization. Understand how LLMs retrieve and present information, the difference between GEO and traditional SEO, and foundational strategies for AI visibility.",
+    "skills": [
+      "GEO Fundamentals",
+      "LLM Search",
+      "AI Visibility",
+      "Traditional vs AI SEO",
+      "Content Discoverability"
+    ],
+    "tags": [
+      "geo",
+      "open university",
+      "openlearn",
+      "free",
+      "llm",
+      "introduction",
+      "ai visibility"
+    ],
+    "affiliate": "https://www.open.edu/openlearn/geo-introduction",
+    "isReal": true,
+    "updatedAt": "2026-06-25"
+  },
+  {
+    "id": 2295,
+    "isFeatured": false,
+    "title": "Complete AEO Tutorial for Beginners",
+    "provider": "YouTube",
+    "instructor": "AEO Expert",
+    "category": "ai-search-aeo-geo",
+    "categories": [
+      "ai-search-aeo-geo",
+      "seo"
+    ],
+    "level": "beginner",
+    "language": "english",
+    "duration": 1,
+    "price": "Free",
+    "isFree": true,
+    "hasCertificate": false,
+    "rating": 4.5,
+    "students": 50000,
+    "description": "Free YouTube tutorial breaking down how answer engine optimization works with step-by-step strategies to increase brand visibility in AI-generated search results. Covers featured snippets, structured data, and AI answer targeting.",
+    "skills": [
+      "AEO",
+      "Featured Snippets",
+      "Structured Data",
+      "AI Answer Targeting",
+      "Brand Visibility"
+    ],
+    "tags": [
+      "aeo",
+      "tutorial",
+      "free",
+      "youtube",
+      "answer engine",
+      "featured snippets",
+      "beginner"
+    ],
+    "affiliate": "https://www.youtube.com/watch?v=uza9GX0E2mw",
+    "isReal": true,
+    "updatedAt": "2026-06-25"
   }
 ]
